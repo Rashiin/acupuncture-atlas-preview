@@ -1,0 +1,72 @@
+{
+  "version": 0,
+  "updated_at": "2026-10-23T08:21:41.469Z",
+  "diseases": [
+    {
+      "id": "d-headache",
+      "name_fa": "سردرد",
+      "name_en": "Headache",
+      "alt_names": [
+        "سر درد",
+        "درد سر"
+      ],
+      "description_fa": "نقاطی که در منابع آموزشی برای سردرد آمده‌اند. سردرد شدید و ناگهانی، سردرد همراه با تب و سفتی گردن، یا سردرد پس از ضربه نیاز به بررسی فوری پزشکی دارد.",
+      "entries": [
+        {
+          "section": "tcm",
+          "points": [
+            "p-li4",
+            "p-lr3",
+            "p-te3",
+            "p-ki1"
+          ],
+          "regions": [],
+          "note_fa": "LI4 برای سردرد پیشانی و صورت؛ LR3 همراه با LI4 در ترکیب چهار دروازه؛ TE3 برای سردرد گیجگاهی؛ KI1 برای سردرد بالای سر.",
+          "source": "A Manual of Acupuncture (2nd ed.)"
+        }
+      ],
+      "free": true,
+      "hidden": false,
+      "status": "published",
+      "created_at": "2026-10-23T08:17:19.697Z",
+      "updated_at": "2026-10-23T08:21:41.469Z"
+    },
+    {
+      "id": "d-indigestion",
+      "name_fa": "ناراحتی معده",
+      "name_en": "Indigestion",
+      "alt_names": [
+        "سوءهاضمه",
+        "سوء هاضمه",
+        "درد معده",
+        "نفخ"
+      ],
+      "description_fa": "نقاط و نواحی آموزشی برای سنگینی و درد معده در دو روش. استفراغ مکرر، خون در استفراغ یا مدفوع، یا درد شدید شکم نیاز به بررسی فوری پزشکی دارد.",
+      "entries": [
+        {
+          "section": "tcm",
+          "points": [
+            "p-sp4",
+            "p-st44"
+          ],
+          "regions": [],
+          "note_fa": "SP4 برای درد معده و تهوع؛ ST44 برای درد معده همراه با گرمی و بوی بد دهان.",
+          "source": "A Manual of Acupuncture (2nd ed.)"
+        },
+        {
+          "section": "sujok",
+          "points": [],
+          "regions": [
+            "r-sujok-stomach"
+          ],
+          "note_fa": "ناحیهٔ متناظر معده در کف دست."
+        }
+      ],
+      "free": true,
+      "hidden": false,
+      "status": "published",
+      "created_at": "2026-10-23T08:17:19.697Z",
+      "updated_at": "2026-10-23T08:21:41.469Z"
+    }
+  ]
+}

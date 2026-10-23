@@ -1,0 +1,92 @@
+{
+  "hand-r": {
+    "id": "hand-r",
+    "title_fa": "دست راست",
+    "file": "models/hand-r.glb?v=84b14196c0",
+    "layers": [
+      "skin",
+      "muscle",
+      "bone"
+    ],
+    "size": 1627272
+  },
+  "ear-r": {
+    "id": "ear-r",
+    "title_fa": "گوش راست",
+    "file": "models/ear-r.glb?v=4d26608ff7",
+    "layers": [
+      "skin"
+    ],
+    "size": 20692
+  },
+  "foot-r": {
+    "id": "foot-r",
+    "title_fa": "پای راست",
+    "file": "models/foot-r.glb?v=c4d4ee961f",
+    "layers": [
+      "skin",
+      "muscle",
+      "tendon",
+      "bone"
+    ],
+    "size": 1821408
+  },
+  "foot-l": {
+    "id": "foot-l",
+    "title_fa": "پای چپ",
+    "file": "models/foot-l.glb?v=a662bc5659",
+    "layers": [
+      "skin",
+      "muscle",
+      "tendon",
+      "bone"
+    ],
+    "size": 1783408
+  },
+  "hand-l": {
+    "id": "hand-l",
+    "title_fa": "دست چپ",
+    "file": "models/hand-l.glb?v=27e24bedab",
+    "layers": [
+      "skin",
+      "muscle",
+      "bone"
+    ],
+    "size": 1573164
+  },
+  "ear-l": {
+    "id": "ear-l",
+    "title_fa": "گوش چپ",
+    "file": "models/ear-l.glb?v=29adb2ec1c",
+    "layers": [
+      "skin"
+    ],
+    "size": 21948
+  },
+  "head": {
+    "id": "head",
+    "title_fa": "سر",
+    "file": "models/head.glb?v=0d8577e8e1",
+    "layers": [
+      "skin",
+      "muscle",
+      "tendon",
+      "bone",
+      "organ"
+    ],
+    "size": 3375416
+  },
+  "body-male": {
+    "id": "body-male",
+    "title_fa": "بدن کامل (مرد)",
+    "file": "models/body-male.glb?v=7b369323e7",
+    "layers": [
+      "skin",
+      "muscle",
+      "tendon",
+      "bone",
+      "organ"
+    ],
+    "size": 15498176
+  }
+}

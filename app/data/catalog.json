@@ -1,0 +1,164 @@
+{
+  "version": 0,
+  "updated_at": "2026-10-21T00:00:00Z",
+  "sections": [
+    {
+      "id": "scalp",
+      "order": 1,
+      "title_fa": "نقاط اسکالپ",
+      "subtitle_fa": "طب سوزنی سر",
+      "models": [
+        "head"
+      ],
+      "disabled_fields": []
+    },
+    {
+      "id": "tcm",
+      "order": 2,
+      "title_fa": "نقاط طب چینی",
+      "subtitle_fa": "مریدین‌ها و نقاط بدن",
+      "models": [
+        "body-male",
+        "hand-r",
+        "hand-l",
+        "foot-r",
+        "foot-l"
+      ],
+      "disabled_fields": []
+    },
+    {
+      "id": "tung",
+      "order": 3,
+      "title_fa": "نقاط مستر تانگ",
+      "subtitle_fa": "نقاط اختصاصی مستر تانگ",
+      "models": [
+        "hand-r",
+        "hand-l",
+        "body-male"
+      ],
+      "disabled_fields": []
+    },
+    {
+      "id": "abdomen",
+      "order": 4,
+      "title_fa": "طب سوزنی شکم و ناف",
+      "subtitle_fa": "نقشه‌های شکم و ناف",
+      "models": [
+        "body-male"
+      ],
+      "disabled_fields": []
+    },
+    {
+      "id": "sujok",
+      "order": 5,
+      "title_fa": "سوجوک",
+      "subtitle_fa": "نقشه‌های دست و پا",
+      "models": [
+        "hand-r",
+        "hand-l",
+        "foot-r",
+        "foot-l"
+      ],
+      "disabled_fields": [
+        "needling"
+      ]
+    },
+    {
+      "id": "ear",
+      "order": 6,
+      "title_fa": "طب سوزنی گوش",
+      "subtitle_fa": "نقشهٔ گوش",
+      "models": [
+        "ear-r",
+        "ear-l"
+      ],
+      "disabled_fields": []
+    }
+  ],
+  "models": [
+    {
+      "id": "body-male",
+      "title_fa": "بدن (مرد)",
+      "file": "models/body-male.glb?v=7b369323e7",
+      "layers": [
+        "skin",
+        "muscle",
+        "tendon",
+        "bone",
+        "organ"
+      ]
+    },
+    {
+      "id": "head",
+      "title_fa": "سر",
+      "file": "models/head.glb?v=0d8577e8e1",
+      "layers": [
+        "skin",
+        "muscle",
+        "tendon",
+        "bone",
+        "organ"
+      ]
+    },
+    {
+      "id": "ear-r",
+      "title_fa": "گوش راست",
+      "file": "models/ear-r.glb?v=4d26608ff7",
+      "layers": [
+        "skin"
+      ]
+    },
+    {
+      "id": "ear-l",
+      "title_fa": "گوش چپ",
+      "file": "models/ear-l.glb?v=29adb2ec1c",
+      "layers": [
+        "skin"
+      ]
+    },
+    {
+      "id": "hand-r",
+      "title_fa": "دست راست",
+      "file": "models/hand-r.glb?v=84b14196c0",
+      "layers": [
+        "skin",
+        "muscle",
+        "tendon",
+        "bone"
+      ]
+    },
+    {
+      "id": "hand-l",
+      "title_fa": "دست چپ",
+      "file": "models/hand-l.glb?v=27e24bedab",
+      "layers": [
+        "skin",
+        "muscle",
+        "tendon",
+        "bone"
+      ]
+    },
+    {
+      "id": "foot-r",
+      "title_fa": "پای راست",
+      "file": "models/foot-r.glb?v=c4d4ee961f",
+      "layers": [
+        "skin",
+        "muscle",
+        "tendon",
+        "bone"
+      ]
+    },
+    {
+      "id": "foot-l",
+      "title_fa": "پای چپ",
+      "file": "models/foot-l.glb?v=a662bc5659",
+      "layers": [
+        "skin",
+        "muscle",
+        "tendon",
+        "bone"
+      ]
+    }
+  ]
+}

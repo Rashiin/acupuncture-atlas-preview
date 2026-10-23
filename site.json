@@ -1,0 +1,25 @@
+{
+  "appUrl": "app/",
+  "purchaseUrl": "",
+  "plans": [
+    { "id": "6m", "price": "" },
+    { "id": "12m", "price": "" }
+  ],
+  "contact": {
+    "phone": "",
+    "email": "",
+    "bale": "",
+    "eitaa": "",
+    "telegram": "",
+    "whatsapp": "",
+    "address": "",
+    "hours": ""
+  },
+  "announcements": [
+    {
+      "date": "2026-10-23",
+      "title": "نسخهٔ آزمایشی اطلس",
+      "text": "بخش‌های طب چینی و سوجوک با نمونهٔ نقاط دست و پا، جست‌وجوی فارسی و بیماری‌ها برای آزمون آماده شده‌اند."
+    }
+  ]
+}
