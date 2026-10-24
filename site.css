@@ -1,23 +1,25 @@
 /* سایت معرفی اطلس. رنگ‌ها و قلم همان اطلس است تا دو بخش یکپارچه دیده شوند. */
+/* پالت کارفرما، همان اطلس: #0F3B46، #20A69A، طلایی #D5B779، زمینه #F6F8F7، متن #27343A. */
 :root {
-  color-scheme: dark;
-  --bg: #0f1d28; --panel: #162835; --raised: #1f3442; --text: #eef4f5; --muted: #a9bcc6;
-  --line: #2f4552; --accent: #8be1d2; --accent-ink: #0f2b2a; --subtle: #213c45; --warm: #e6c3a3;
-  --alt: #12232f; --shadow: 0 24px 70px #020b1440;
+  color-scheme: light;
+  --brand: #0f3b46; --gold: #d5b779;
+  --bg: #f6f8f7; --panel: #fff; --raised: #eef3f2; --text: #27343a; --muted: #5d6f75;
+  --line: #dde6e4; --accent: #17857b; --accent-ink: #fff; --subtle: #e2f2ef; --warm: #8a6a2c;
+  --alt: #edf4f2; --shadow: 0 20px 60px #0f3b461a;
 }
-@media (prefers-color-scheme: light) {
-  :root:not([data-theme='dark']) {
-    color-scheme: light;
-    --bg: #f4f8f9; --panel: #fff; --raised: #e8f0f2; --text: #183440; --muted: #536d78;
-    --line: #d3e1e6; --accent: #1f7a6e; --accent-ink: #fff; --subtle: #dff0ec; --warm: #85583d;
-    --alt: #eaf2f4; --shadow: 0 24px 70px #2946521c;
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    color-scheme: dark;
+    --bg: #0a2329; --panel: #0f3039; --raised: #153c46; --text: #eaf2f1; --muted: #9db5b6;
+    --line: #23505a; --accent: #3cc4b6; --accent-ink: #062a2e; --subtle: #154a51; --warm: #e2c88f;
+    --alt: #0c2a31; --shadow: 0 24px 70px #00090c66;
   }
 }
-:root[data-theme='light'] {
-  color-scheme: light;
-  --bg: #f4f8f9; --panel: #fff; --raised: #e8f0f2; --text: #183440; --muted: #536d78;
-  --line: #d3e1e6; --accent: #1f7a6e; --accent-ink: #fff; --subtle: #dff0ec; --warm: #85583d;
-  --alt: #eaf2f4; --shadow: 0 24px 70px #2946521c;
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #0a2329; --panel: #0f3039; --raised: #153c46; --text: #eaf2f1; --muted: #9db5b6;
+  --line: #23505a; --accent: #3cc4b6; --accent-ink: #062a2e; --subtle: #154a51; --warm: #e2c88f;
+  --alt: #0c2a31; --shadow: 0 24px 70px #00090c66;
 }
 
 * { box-sizing: border-box; }
@@ -54,7 +56,7 @@ svg.i { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-widt
 .nav { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
 .nav-row { height: 66px; display: flex; align-items: center; gap: 20px; }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; text-decoration: none; font-size: 15px; }
-.brandmark { width: 38px; height: 38px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 11px; color: var(--accent); }
+.brand-logo { width: 38px; height: 38px; border-radius: 11px; box-shadow: 0 4px 14px #0f3b4630; }
 .links { display: flex; gap: 4px; margin-inline-start: auto; }
 .links a { text-decoration: none; color: var(--muted); padding: 8px 12px; border-radius: 9px; font-size: 14px; }
 .links a:hover { color: var(--text); background: var(--raised); }
@@ -68,22 +70,28 @@ svg.i { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-widt
 .menu-panel a:not(.btn):hover { background: var(--raised); }
 .menu-panel .btn { margin-top: 6px; }
 
-/* ───── بالای صفحه ───── */
-.hero { padding: 64px 0 40px; overflow: hidden; background: radial-gradient(ellipse 70% 60% at 25% 40%, color-mix(in srgb, var(--accent) 12%, transparent), transparent 70%); }
-.hero-grid { display: grid; grid-template-columns: 1fr 1.05fr; gap: 40px; align-items: center; }
-.eyebrow { color: var(--accent); font-weight: 600; font-size: 14px; margin: 0 0 10px; }
+/* ───── بالای صفحه: بنر تیره مثل طرح کارفرما ───── */
+.hero {
+  position: relative; padding: 64px 0 56px; overflow: hidden; color: #eaf6f4;
+  background: radial-gradient(ellipse 55% 70% at 22% 45%, #20a69a3d, transparent 70%), linear-gradient(135deg, #0f3b46, #0a2a31 75%);
+}
+.hero::after { content: ''; position: absolute; width: 520px; height: 520px; left: -120px; top: -60px; border-radius: 50%; border: 1px solid #d5b77940; pointer-events: none; }
+.hero-grid { position: relative; z-index: 1; display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; }
+.eyebrow { color: var(--gold); font-weight: 600; font-size: 14px; margin: 0 0 10px; }
 h1 { font-size: clamp(28px, 4.4vw, 46px); line-height: 1.35; margin: 0 0 16px; letter-spacing: -0.5px; }
+.hero h1 { color: #fff; }
 .lead { color: var(--muted); font-size: 17px; margin: 0 0 26px; max-width: 34em; }
+.hero .lead, .hero .hint { color: #b8d4d1; }
+.hero .btn.primary { background: #20a69a; border-color: #20a69a; color: #fff; }
+.hero .btn:not(.primary) { background: transparent; border-color: #ffffff40; color: #fff; }
+.hero .btn:not(.primary):hover { border-color: #ffffffa0; }
 .cta-row { display: flex; gap: 10px; flex-wrap: wrap; }
 .hint { display: flex; gap: 8px; align-items: center; color: var(--muted); font-size: 13px; margin: 18px 0 0; }
-.hero-shots { position: relative; min-height: 440px; }
-.shot.desktop {
-  position: absolute; top: 20px; left: 0; width: 88%; height: auto; border-radius: 14px;
-  border: 1px solid var(--line); box-shadow: var(--shadow);
-}
+.hero-shots { position: relative; min-height: 460px; }
+.hero-hand { position: absolute; left: 22%; top: -10px; height: 500px; width: auto; filter: drop-shadow(0 24px 40px #0009); }
 .phone {
-  position: absolute; right: 0; bottom: 0; width: 34%; min-width: 150px; padding: 8px; border-radius: 30px;
-  background: #0b141b; border: 1px solid #ffffff1f; box-shadow: var(--shadow);
+  position: absolute; left: 0; bottom: 0; width: 34%; min-width: 150px; padding: 8px; border-radius: 30px;
+  background: #061a1f; border: 1px solid #ffffff26; box-shadow: 0 24px 60px #0008;
 }
 .phone img { width: 100%; height: auto; border-radius: 23px; }
 
@@ -98,7 +106,7 @@ h3 { font-size: 16px; margin: 0 0 6px; }
 .feature, .topic, .step-card, .plan, .contact-card, .guide, .flow, .news article {
   background: var(--panel); border: 1px solid var(--line); border-radius: 16px; padding: 22px;
 }
-.feature > svg.i, .topic > svg.i { width: 26px; height: 26px; color: var(--accent); margin-bottom: 10px; }
+.feature > svg.i, .topic > svg.i { width: 50px; height: 50px; padding: 12px; border-radius: 15px; background: var(--subtle); color: var(--accent); margin-bottom: 12px; }
 .feature p, .topic p { color: var(--muted); margin: 0; font-size: 14px; }
 .topic { display: flex; gap: 14px; align-items: flex-start; }
 .topic > svg.i { margin: 4px 0 0; }
@@ -156,6 +164,7 @@ h3 { font-size: 16px; margin: 0 0 6px; }
   .nav-actions { margin-inline-start: auto; }
   .hero-grid { grid-template-columns: 1fr; }
   .hero-shots { min-height: 0; aspect-ratio: 1.25; }
+  .hero-hand { height: 100%; top: 0; left: 30%; }
   .grid.three { grid-template-columns: 1fr 1fr; }
   .flow-steps { grid-template-columns: 1fr 1fr; }
 }
