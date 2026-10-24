@@ -119,7 +119,7 @@
     {
       "id": "hand-r",
       "title_fa": "دست راست",
-      "file": "models/hand-r.glb?v=84b14196c0",
+      "file": "models/hand-r.glb?v=5bcd02a8d9",
       "layers": [
         "skin",
         "muscle",
@@ -130,7 +130,7 @@
     {
       "id": "hand-l",
       "title_fa": "دست چپ",
-      "file": "models/hand-l.glb?v=27e24bedab",
+      "file": "models/hand-l.glb?v=483a16cc56",
       "layers": [
         "skin",
         "muscle",
@@ -141,7 +141,7 @@
     {
       "id": "foot-r",
       "title_fa": "پای راست",
-      "file": "models/foot-r.glb?v=c4d4ee961f",
+      "file": "models/foot-r.glb?v=fb8624a51e",
       "layers": [
         "skin",
         "muscle",
@@ -152,7 +152,7 @@
     {
       "id": "foot-l",
       "title_fa": "پای چپ",
-      "file": "models/foot-l.glb?v=a662bc5659",
+      "file": "models/foot-l.glb?v=23ef05e6aa",
       "layers": [
         "skin",
         "muscle",
