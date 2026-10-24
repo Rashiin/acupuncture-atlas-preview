@@ -74,7 +74,7 @@ fetch('./site.json', { cache: 'no-cache' })
 
 document.querySelector('[data-theme-toggle]')?.addEventListener('click', () => {
   const root = document.documentElement;
-  const dark = root.dataset.theme ? root.dataset.theme === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+  const dark = root.dataset.theme === 'dark';
   root.dataset.theme = dark ? 'light' : 'dark';
   try {
     localStorage.setItem('atlas.theme', root.dataset.theme);
