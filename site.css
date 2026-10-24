@@ -49,6 +49,12 @@ svg.i { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-widt
 .nav-row { height: 66px; display: flex; align-items: center; gap: 20px; }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; text-decoration: none; font-size: 15px; }
 .brand-logo { width: 38px; height: 38px; border-radius: 11px; box-shadow: 0 4px 14px #0f3b4630; }
+.brand-text { display: flex; flex-direction: column; line-height: 1.2; }
+.brand-text small { font-size: 11px; font-weight: 400; color: var(--muted); }
+.wordmark { font-size: 20px; font-weight: 800; letter-spacing: -.3px; unicode-bidi: isolate; }
+.wordmark b { font-weight: 800; color: var(--brand); }
+.wordmark i { font-style: normal; color: #20a69a; }
+:root[data-theme='dark'] .wordmark b { color: #eaf2f1; }
 .links { display: flex; gap: 4px; margin-inline-start: auto; }
 .links a { text-decoration: none; color: var(--muted); padding: 8px 12px; border-radius: 9px; font-size: 14px; }
 .links a:hover { color: var(--text); background: var(--raised); }
