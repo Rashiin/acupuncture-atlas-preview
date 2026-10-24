@@ -32,9 +32,9 @@
       "title_fa": "نقاط مستر تانگ",
       "subtitle_fa": "نقاط اختصاصی مستر تانگ",
       "models": [
+        "body-male",
         "hand-r",
-        "hand-l",
-        "body-male"
+        "hand-l"
       ],
       "disabled_fields": []
     },

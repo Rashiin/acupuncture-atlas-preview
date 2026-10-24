@@ -87,13 +87,18 @@ h1 { font-size: clamp(28px, 4.4vw, 46px); line-height: 1.35; margin: 0 0 16px; l
 .hero .btn:not(.primary):hover { border-color: #ffffffa0; }
 .cta-row { display: flex; gap: 10px; flex-wrap: wrap; }
 .hint { display: flex; gap: 8px; align-items: center; color: var(--muted); font-size: 13px; margin: 18px 0 0; }
-.hero-shots { position: relative; min-height: 460px; }
-.hero-hand { position: absolute; left: 22%; top: -10px; height: 500px; width: auto; filter: drop-shadow(0 24px 40px #0009); }
-.phone {
-  position: absolute; left: 0; bottom: 0; width: 34%; min-width: 150px; padding: 8px; border-radius: 30px;
-  background: #061a1f; border: 1px solid #ffffff26; box-shadow: 0 24px 60px #0008;
-}
-.phone img { width: 100%; height: auto; border-radius: 23px; }
+.hero-art { position: relative; display: flex; justify-content: center; }
+.hero-art img { height: 470px; width: auto; filter: drop-shadow(0 24px 40px #0009); margin-bottom: -90px; }
+
+/* چهار کارت امکانات که روی لبهٔ پایین بنر می‌نشینند، مثل طرح کارفرما */
+.features-band { position: relative; z-index: 2; margin-top: -52px; padding-bottom: 56px; }
+.grid.four { grid-template-columns: repeat(4, minmax(0, 1fr)); background: var(--panel); border: 1px solid var(--line); border-radius: 20px; box-shadow: var(--shadow); padding: 8px; gap: 0; }
+.grid.four .feature { border: 0; box-shadow: none; text-align: center; padding: 18px 10px; border-radius: 14px; display: flex; flex-direction: column; align-items: center; }
+.grid.four .feature + .feature { border-inline-start: 1px solid var(--line); border-radius: 0; }
+.grid.four .feature p { font-size: 13px; }
+.plan-note { color: var(--muted); font-size: 14px; margin: 0 0 16px; flex: 1; }
+.about { display: grid; grid-template-columns: 1.2fr 1fr; gap: 28px; align-items: start; }
+.about .guide { margin-top: 0; }
 
 /* ───── بخش‌ها ───── */
 .block { padding: 72px 0; }
@@ -163,12 +168,17 @@ h3 { font-size: 16px; margin: 0 0 6px; }
   .menu { display: block; }
   .nav-actions { margin-inline-start: auto; }
   .hero-grid { grid-template-columns: 1fr; }
-  .hero-shots { min-height: 0; aspect-ratio: 1.25; }
-  .hero-hand { height: 100%; top: 0; left: 30%; }
+  .hero { padding-bottom: 80px; }
+  .hero-art img { height: 340px; margin-bottom: -40px; }
   .grid.three { grid-template-columns: 1fr 1fr; }
   .flow-steps { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 600px) {
+  .grid.four { grid-template-columns: 1fr 1fr; }
+  .grid.four .feature:nth-child(3) { border-inline-start: 0; }
+  .grid.four .feature:nth-child(n+3) { border-top: 1px solid var(--line); }
+  .about { grid-template-columns: 1fr; }
+  .hero-art img { height: 300px; margin-bottom: -60px; }
   body { font-size: 14px; }
   .hero { padding: 36px 0 24px; }
   .lead { font-size: 15px; }

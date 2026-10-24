@@ -46,11 +46,11 @@
         <span>اطلس سه‌بعدی طب سوزنی</span>
       </a>
       <nav class="links" aria-label="بخش‌های سایت">
+        <a href="#top">خانه</a>
         <a href="#features">امکانات</a>
-        <a href="#sections">بخش‌ها</a>
-        <a href="#install">نصب و راهنما</a>
-        <a href="#pricing">اشتراک</a>
-        <a href="#contact">تماس</a>
+        <a href="#pricing">تعرفه‌ها</a>
+        <a href="#about">درباره ما</a>
+        <a href="#contact">تماس با ما</a>
       </nav>
       <div class="nav-actions">
         <button class="icon-btn" type="button" data-theme-toggle aria-label="تغییر پوسته" title="تغییر پوسته"><svg class="i"><use href="#i-theme"/></svg></button>
@@ -58,11 +58,11 @@
         <details class="menu">
           <summary class="icon-btn" aria-label="فهرست"><svg class="i"><use href="#i-menu"/></svg></summary>
           <div class="menu-panel">
+            <a href="#top">خانه</a>
             <a href="#features">امکانات</a>
-            <a href="#sections">بخش‌ها</a>
-            <a href="#install">نصب و راهنما</a>
-            <a href="#pricing">اشتراک</a>
-            <a href="#contact">تماس</a>
+            <a href="#pricing">تعرفه‌ها</a>
+            <a href="#about">درباره ما</a>
+            <a href="#contact">تماس با ما</a>
             <a class="btn primary" data-app="" href="app/">ورود به اطلس</a>
           </div>
         </details>
@@ -70,144 +70,56 @@
     </div>
   </header>
 
-  <main>
+  <main id="top">
     <section class="hero">
       <div class="wrap hero-grid">
         <div class="hero-copy">
-          <p class="eyebrow">آموزش تعاملی، فارسی و راست‌چین</p>
-          <h1>نقاط طب سوزنی را روی مدل سه‌بعدی بدن ببینید</h1>
-          <p class="lead">اطلسی برای پزشکان، دانشجویان و علاقه‌مندان: طب سوزنی چینی، مستر تانگ، سوجوک، اسکالپ، گوش و شکم، با مدل واقعی آناتومی و جست‌وجوی هوشمند فارسی.</p>
+          <h1>دانش نقاط، در یک نگاه</h1>
+          <p class="lead">مرجع طب سوزنی و طب سنتی با مدل سه‌بعدی بدن و اطلاعات دقیق هر نقطه.</p>
           <div class="cta-row">
-            <a class="btn primary big" data-app="" href="app/">باز کردن اطلس <svg class="i"><use href="#i-left"/></svg></a>
-            <a class="btn big" href="#pricing">مشاهدهٔ اشتراک‌ها</a>
+            <a class="btn primary big" href="#features">مشاهدهٔ امکانات</a>
+            <a class="btn big" data-app="" href="app/">ورود به اطلس <svg class="i"><use href="#i-left"/></svg></a>
           </div>
-          <p class="hint"><svg class="i"><use href="#i-phone"/></svg>روی گوشی، تبلت و رایانه؛ بدون نیاز به فروشگاه برنامه.</p>
         </div>
-        <div class="hero-shots" aria-hidden="true">
-          <img class="hero-hand" src="./assets/hero-hand.webp" alt="" width="341" height="720" loading="eager">
-          <div class="phone"><img src="./assets/shot-phone.webp" alt="" width="750" height="1624" loading="eager"></div>
+        <div class="hero-art" aria-hidden="true">
+          <img src="./assets/body-muscle.webp" alt="" width="338" height="900" loading="eager">
         </div>
       </div>
     </section>
 
-    <section id="features" class="block">
+    <section id="features" class="features-band">
       <div class="wrap">
-        <h2>هر نقطه، همان‌جا که هست</h2>
-        <p class="section-lead">به‌جای تصویر تخت کتاب، مدل را بچرخانید، لایه‌ها را کنار بزنید و نقطه را از هر زاویه ببینید.</p>
-        <div class="grid three">
-          <article class="feature"><svg class="i"><use href="#i-rotate"/></svg><h3>مدل سه‌بعدی تعاملی</h3><p>چرخش کامل، بزرگ‌نمایی با لمس یا ماوس، نمای جلو و پشت. پس از انتخاب نقطه، دوربین با حرکت نرم روی آن می‌رود.</p></article>
-          <article class="feature"><svg class="i"><use href="#i-layers"/></svg><h3>لایه‌های آناتومی</h3><p>پوست، عضله و تاندون، و استخوان مرحله‌به‌مرحله حذف می‌شوند؛ روی مدل بدن، ارگان‌ها هم نمایش داده می‌شوند.</p></article>
-          <article class="feature"><svg class="i"><use href="#i-search"/></svg><h3>جست‌وجوی هوشمند فارسی</h3><p>با نام فارسی یا انگلیسی، کد نقطه مثل <bdi dir="ltr">LI4</bdi> یا <bdi dir="ltr">LI-4</bdi>، یا نام بیماری؛ با تحمل غلط تایپی و یکسان‌سازی «ی» و «ک».</p></article>
-          <article class="feature"><svg class="i"><use href="#i-info"/></svg><h3>اطلاعات کامل هر نقطه</h3><p>محل دقیق، روش پیدا کردن، نشانه‌های آناتومیک، کاربرد، روش تحریک، ترکیب‌ها و نکات احتیاطی.</p></article>
-          <article class="feature"><svg class="i"><use href="#i-region"/></svg><h3>نقطه و ناحیه</h3><p>نقاط دقیق به‌صورت نشانگر، و محدوده‌های بزرگ‌تر مثل نواحی سوجوک به‌صورت لایهٔ رنگی نیمه‌شفاف روی سطح مدل.</p></article>
-          <article class="feature"><svg class="i"><use href="#i-disease"/></svg><h3>بیماری‌ها</h3><p>با انتخاب یک بیماری، نقاط پیشنهادی روش‌های مختلف همراه با توضیح کنار هم می‌آیند و با یک لمس روی مدل دیده می‌شوند.</p></article>
-        </div>
-      </div>
-    </section>
-
-    <section id="sections" class="block alt">
-      <div class="wrap">
-        <h2>بخش‌های آموزشی</h2>
-        <p class="section-lead">هر بخش مدل‌ها و تنظیمات نمایش خودش را دارد؛ همه از یک موتور سه‌بعدی مشترک.</p>
-        <div class="grid three">
-          <article class="topic"><svg class="i"><use href="#i-body"/></svg><div><h3>نقاط طب چینی</h3><p>مریدین‌ها و نقاط کلاسیک روی مدل کامل بدن، و مدل‌های جزئی‌تر دست و پا.</p></div></article>
-          <article class="topic"><svg class="i"><use href="#i-hand"/></svg><div><h3>مستر تانگ</h3><p>نقاط اختصاصی مستر تانگ روی دست و بدن.</p></div></article>
-          <article class="topic"><svg class="i"><use href="#i-hand"/></svg><div><h3>سوجوک</h3><p>نقشه‌های تناظر روی دست و پای چپ و راست، با نواحی رنگی اندام‌ها.</p></div></article>
-          <article class="topic"><svg class="i"><use href="#i-head"/></svg><div><h3>نقاط اسکالپ</h3><p>طب سوزنی سر روی مدل سه‌بعدی سر.</p></div></article>
-          <article class="topic"><svg class="i"><use href="#i-ear"/></svg><div><h3>طب سوزنی گوش</h3><p>نقشهٔ گوش چپ و راست.</p></div></article>
-          <article class="topic"><svg class="i"><use href="#i-navel"/></svg><div><h3>طب سوزنی شکم و ناف</h3><p>نقشه‌های شکم و ناف روی مدل بدن.</p></div></article>
-        </div>
-      </div>
-    </section>
-
-    <section id="install" class="block">
-      <div class="wrap">
-        <h2>نصب و راهنما</h2>
-        <p class="section-lead">اطلس در مرورگر اجرا می‌شود و می‌توانید آن را مثل یک برنامه به صفحهٔ اصلی گوشی اضافه کنید.</p>
-        <div class="grid three">
-          <article class="step-card">
-            <h3><svg class="i"><use href="#i-phone"/></svg>اندروید</h3>
-            <ol>
-              <li>اطلس را در مرورگر کروم باز کنید.</li>
-              <li>منوی سه‌نقطهٔ بالای صفحه را بزنید.</li>
-              <li>«نصب برنامه» یا «افزودن به صفحهٔ اصلی» را انتخاب کنید.</li>
-            </ol>
-          </article>
-          <article class="step-card">
-            <h3><svg class="i"><use href="#i-phone"/></svg>آیفون و آیپد</h3>
-            <ol>
-              <li>اطلس را در سافاری باز کنید.</li>
-              <li>دکمهٔ اشتراک‌گذاری پایین صفحه را بزنید.</li>
-              <li>«Add to Home Screen» و سپس «Add» را بزنید.</li>
-            </ol>
-          </article>
-          <article class="step-card">
-            <h3><svg class="i"><use href="#i-desktop"/></svg>رایانه و لپ‌تاپ</h3>
-            <ol>
-              <li>اطلس را در کروم، اج یا فایرفاکس باز کنید.</li>
-              <li>در کروم و اج، نماد نصب در نوار نشانی را بزنید؛ یا همان‌جا در مرورگر کار کنید.</li>
-            </ol>
-          </article>
-        </div>
-        <div class="guide">
-          <h3>کار با اطلس</h3>
-          <ul class="checks">
-            <li><svg class="i"><use href="#i-check"/></svg>برای چرخاندن، مدل را بکشید؛ برای بزرگ‌نمایی دو انگشت را باز کنید یا چرخ ماوس را بچرخانید.</li>
-            <li><svg class="i"><use href="#i-check"/></svg>لایه‌های پوست، عضله و استخوان از بالای صفحه حذف یا دوباره فعال می‌شوند.</li>
-            <li><svg class="i"><use href="#i-check"/></svg>روی هر نقطه بزنید یا آن را جست‌وجو کنید تا اطلاعاتش پایین صفحه باز شود.</li>
-            <li><svg class="i"><use href="#i-check"/></svg>با ابزار ماژیک روی مدل علامت موقت بگذارید و هر وقت خواستید پاکش کنید.</li>
-            <li><svg class="i"><use href="#i-check"/></svg>نقاط را نشان‌دار کنید تا در «نشان‌شده‌ها و بازدیدها» در دسترس باشند.</li>
-          </ul>
-          <p class="note">در نسخهٔ فعلی، برای باز کردن اطلس به اینترنت نیاز است.</p>
+        <div class="grid four">
+          <article class="feature"><svg class="i"><use href="#i-layers"/></svg><h3>اطلس سه‌بعدی</h3><p>نمایش لایه‌های بدن</p></article>
+          <article class="feature"><svg class="i"><use href="#i-search"/></svg><h3>جست‌وجوی نقطه</h3><p>با نام، کد یا مریدین</p></article>
+          <article class="feature"><svg class="i"><use href="#i-info"/></svg><h3>محتوای آموزشی</h3><p>با منابع معتبر</p></article>
+          <article class="feature"><svg class="i"><use href="#i-phone"/></svg><h3>همراه همیشه</h3><p>روی گوشی و رایانه</p></article>
         </div>
       </div>
     </section>
 
     <section id="pricing" class="block alt">
       <div class="wrap">
-        <h2>اشتراک</h2>
-        <p class="section-lead">بخشی از نقاط با همهٔ جزئیات رایگان است. با اشتراک، همهٔ بخش‌ها و نقاط باز می‌شوند.</p>
+        <h2>تعرفه‌ها</h2>
         <div class="grid three plans">
           <article class="plan">
-            <h3>مهمان</h3>
-            <p class="price">رایگان</p>
-            <ul class="checks">
-              <li><svg class="i"><use href="#i-check"/></svg>نقاط رایگان با همهٔ جزئیات</li>
-              <li><svg class="i"><use href="#i-check"/></svg>همهٔ مدل‌ها و لایه‌های آناتومی</li>
-              <li><svg class="i"><use href="#i-check"/></svg>نمایش مریدین‌ها و جست‌وجو</li>
-            </ul>
-            <a class="btn" data-app="" href="app/">شروع رایگان</a>
+            <h3>رایگان</h3>
+            <p class="price">بدون هزینه</p>
+            <p class="plan-note">بخشی از نقاط با همهٔ جزئیات</p>
+            <a class="btn" data-app="" href="app/">شروع</a>
           </article>
           <article class="plan featured" data-plan="6m">
-            <h3>اشتراک شش‌ماهه</h3>
+            <h3>شش‌ماهه</h3>
             <p class="price" data-price>به‌زودی</p>
-            <ul class="checks">
-              <li><svg class="i"><use href="#i-check"/></svg>دسترسی کامل به همهٔ بخش‌ها و نقاط</li>
-              <li><svg class="i"><use href="#i-check"/></svg>نشان‌دار کردن، تاریخچه و رونوشت توضیحات</li>
-              <li><svg class="i"><use href="#i-check"/></svg>به‌روزرسانی محتوا در طول اشتراک</li>
-            </ul>
+            <p class="plan-note">دسترسی کامل به همهٔ بخش‌ها</p>
             <a class="btn primary" data-buy="6m" href="#contact">هماهنگی خرید</a>
           </article>
           <article class="plan" data-plan="12m">
-            <h3>اشتراک یک‌ساله</h3>
+            <h3>یک‌ساله</h3>
             <p class="price" data-price>به‌زودی</p>
-            <ul class="checks">
-              <li><svg class="i"><use href="#i-check"/></svg>همهٔ امکانات اشتراک شش‌ماهه</li>
-              <li><svg class="i"><use href="#i-check"/></svg>یک سال دسترسی کامل</li>
-              <li><svg class="i"><use href="#i-check"/></svg>تمدید بدون از دست رفتن سوابق حساب</li>
-            </ul>
+            <p class="plan-note">دسترسی کامل به همهٔ بخش‌ها</p>
             <a class="btn" data-buy="12m" href="#contact">هماهنگی خرید</a>
           </article>
-        </div>
-        <div class="flow">
-          <h3>خرید و فعال‌سازی</h3>
-          <ol class="flow-steps">
-            <li><b>۱</b>اشتراک را از همین سایت بخرید.</li>
-            <li><b>۲</b>کد فعال‌سازی را دریافت کنید.</li>
-            <li><b>۳</b>کد را در اطلس وارد کنید و نام کاربری و رمز بسازید.</li>
-            <li><b>۴</b>اشتراک از لحظهٔ فعال‌سازی شروع می‌شود.</li>
-          </ol>
-          <p class="note">هر حساب در هر لحظه یک نشست فعال دارد و هر کد فقط یک بار قابل استفاده است.</p>
         </div>
       </div>
     </section>
@@ -219,14 +131,30 @@
       </div>
     </section>
 
-    <section id="contact" class="block">
+    <section id="about" class="block">
+      <div class="wrap about">
+        <div>
+          <h2>درباره ما</h2>
+          <p class="section-lead">اطلس برای پزشکان، دانشجویان و علاقه‌مندان طب سوزنی ساخته شده تا هر نقطه را به‌جای تصویر کتاب، روی مدل سه‌بعدی بدن ببینند: طب سوزنی چینی، مستر تانگ، سوجوک، اسکالپ، گوش و شکم.</p>
+        </div>
+        <div id="install" class="guide">
+          <h3>نصب روی گوشی</h3>
+          <ul class="checks">
+            <li><svg class="i"><use href="#i-check"/></svg>اندروید: در کروم، منوی سه‌نقطه و «افزودن به صفحهٔ اصلی».</li>
+            <li><svg class="i"><use href="#i-check"/></svg>آیفون: در سافاری، دکمهٔ اشتراک‌گذاری و «Add to Home Screen».</li>
+            <li><svg class="i"><use href="#i-check"/></svg>رایانه: در هر مرورگری باز می‌شود.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact" class="block alt">
       <div class="wrap">
-        <h2>تماس و پشتیبانی</h2>
-        <p class="section-lead">پرسش، گزارش خطا یا پیشنهاد دارید؟ از هر یک از راه‌های زیر با ما در تماس باشید.</p>
+        <h2>تماس با ما</h2>
         <div class="grid three" data-contact>
           <a class="contact-card" data-app="#/feedback" href="app/#/feedback">
             <svg class="i"><use href="#i-message"/></svg>
-            <span><b>ارسال پیام از داخل اطلس</b><small>گزارش، انتقاد و پیشنهاد مستقیم به پشتیبانی می‌رسد.</small></span>
+            <span><b>پیام از داخل اطلس</b><small>گزارش، انتقاد و پیشنهاد</small></span>
           </a>
         </div>
       </div>
@@ -241,8 +169,8 @@
       </div>
       <nav class="foot-links" aria-label="پیوندها">
         <a data-app="" href="app/">ورود به اطلس</a>
-        <a href="#install">راهنمای نصب</a>
-        <a href="#pricing">خرید و تمدید اشتراک</a>
+        <a href="#install">نصب روی گوشی</a>
+        <a href="#pricing">تعرفه‌ها</a>
         <a href="#contact">تماس با ما</a>
         <a href="./terms.html">قوانین و سلب مسئولیت</a>
       </nav>
