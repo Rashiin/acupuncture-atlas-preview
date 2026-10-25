@@ -79,7 +79,7 @@
   "body-male": {
     "id": "body-male",
     "title_fa": "بدن کامل (مرد)",
-    "file": "models/body-male.glb?v=7537d82846",
+    "file": "models/body-male.glb?v=9abc7a1818",
     "layers": [
       "skin",
       "muscle",
@@ -87,6 +87,6 @@
       "bone",
       "organ"
     ],
-    "size": 16410784
+    "size": 16340272
   }
 }
