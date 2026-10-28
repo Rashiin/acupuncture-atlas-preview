@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta name="robots" content="noindex, nofollow">
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-  <title>Atlascure · اطلس سه‌بعدی طب سوزنی</title>
+  <title>AtlasCure · اطلس درمان، اطلس سه‌بعدی طب سوزنی</title>
   <meta name="description" content="اطلس سه‌بعدی و فارسی طب سوزنی چینی، مستر تانگ، سوجوک، اسکالپ، گوش و شکم؛ با جست‌وجوی هوشمند فارسی، روی گوشی و رایانه.">
-  <meta name="theme-color" content="#0f3b46">
+  <meta name="theme-color" content="#083d3e">
   <link rel="icon" href="./icon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="./fonts/vazirmatn.css">
   <link rel="stylesheet" href="./site.css">
@@ -37,31 +37,37 @@
     <symbol id="i-message" viewBox="0 0 24 24"><path d="M4 5h16v11H8l-4 4z"/></symbol>
     <symbol id="i-bell" viewBox="0 0 24 24"><path d="M6 16V11a6 6 0 0 1 12 0v5l2 2H4zM10 21h4"/></symbol>
     <symbol id="i-left" viewBox="0 0 24 24"><path d="M14 6l-6 6 6 6"/></symbol>
+    <symbol id="i-user" viewBox="0 0 24 24"><path d="M12 4a4 4 0 1 0 0 8 4 4 0 1 0 0-8M4 21a8 8 0 0 1 16 0"/></symbol>
+    <symbol id="i-target" viewBox="0 0 24 24"><path d="M12 3a9 9 0 1 0 0 18 9 9 0 1 0 0-18M12 8a4 4 0 1 0 0 8 4 4 0 1 0 0-8M12 11.2a.8.8 0 1 0 0 1.6.8.8 0 1 0 0-1.6"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5zM4 20.5A2.5 2.5 0 0 0 6.5 23H20v-5"/></symbol>
   </svg>
 
   <header class="nav">
     <div class="wrap nav-row">
-      <a class="brand" href="./">
-        <img class="brand-logo" src="./icon.svg" width="38" height="38" alt="">
-        <span class="brand-text"><span class="wordmark" dir="ltr" lang="en"><b>Atlas</b><i>cure</i></span><small>اطلس سه‌بعدی طب سوزنی</small></span>
+      <a class="brand" href="./" aria-label="AtlasCure، صفحهٔ اول">
+        <img class="brand-logo" src="./icon.svg" width="40" height="40" alt="">
+        <span class="brand-text"><span class="wordmark" dir="ltr" lang="en"><b>Atlas</b><i>Cure</i></span><small dir="ltr" lang="en">ACUPUNCTURE &amp; MORE</small></span>
       </a>
       <nav class="links" aria-label="بخش‌های سایت">
-        <a href="#top">خانه</a>
-        <a href="#features">امکانات</a>
-        <a href="#pricing">تعرفه‌ها</a>
+        <a href="#top" aria-current="page">خانه</a>
+        <a data-app="#/s/tcm" href="app/#/s/tcm">نقاط</a>
+        <a data-app="#/styles" href="app/#/styles">مکاتب تخصصی</a>
+        <a data-app="#/d" href="app/#/d">بیماری‌ها</a>
         <a href="#about">درباره ما</a>
-        <a href="#contact">تماس با ما</a>
       </nav>
       <div class="nav-actions">
-        <button class="icon-btn" type="button" data-theme-toggle aria-label="تغییر پوسته" title="تغییر پوسته"><svg class="i"><use href="#i-theme"/></svg></button>
-        <a class="btn primary nav-cta" data-app="" href="app/">ورود به اطلس</a>
+        <a class="icon-btn" data-app="" href="app/" aria-label="جست‌وجو در اطلس" title="جست‌وجو در اطلس"><svg class="i"><use href="#i-search"/></svg></a>
+        <a class="icon-btn" data-app="#/plan" href="app/#/plan" aria-label="حساب کاربری" title="حساب کاربری"><svg class="i"><use href="#i-user"/></svg></a>
+        <a class="btn primary pill nav-cta" href="#install">دانلود اپ</a>
         <details class="menu">
           <summary class="icon-btn" aria-label="فهرست"><svg class="i"><use href="#i-menu"/></svg></summary>
           <div class="menu-panel">
             <a href="#top">خانه</a>
-            <a href="#features">امکانات</a>
-            <a href="#pricing">تعرفه‌ها</a>
+            <a data-app="#/s/tcm" href="app/#/s/tcm">نقاط</a>
+            <a data-app="#/styles" href="app/#/styles">مکاتب تخصصی</a>
+            <a data-app="#/d" href="app/#/d">بیماری‌ها</a>
             <a href="#about">درباره ما</a>
+            <a href="#pricing">تعرفه‌ها</a>
             <a href="#contact">تماس با ما</a>
             <a class="btn primary" data-app="" href="app/">ورود به اطلس</a>
           </div>
@@ -74,27 +80,39 @@
     <section class="hero">
       <div class="wrap hero-grid">
         <div class="hero-copy">
-          <h1>دانش نقاط، در یک نگاه</h1>
-          <p class="lead">مرجع طب سوزنی و طب سنتی با مدل سه‌بعدی بدن و اطلاعات دقیق هر نقطه.</p>
+          <p class="eyebrow">اطلس درمان</p>
+          <h1>دانش طب سوزنی،<br><span>دقیق و یکپارچه</span></h1>
+          <p class="lead">با مدل سه‌بعدی بدن، تمام نقاط، مکاتب و منابع معتبر در یک مجموعهٔ کامل.</p>
           <div class="cta-row">
-            <a class="btn primary big" href="#features">مشاهدهٔ امکانات</a>
-            <a class="btn big" data-app="" href="app/">ورود به اطلس <svg class="i"><use href="#i-left"/></svg></a>
+            <a class="btn primary pill big" data-app="" href="app/">مشاهدهٔ اطلس سه‌بعدی <span class="cta-ico"><svg class="i"><use href="#i-left"/></svg></span></a>
           </div>
         </div>
         <div class="hero-art" aria-hidden="true">
-          <img src="./assets/body-muscle.webp" alt="" width="338" height="900" loading="eager">
+          <span class="ring"></span>
+          <img src="./assets/hero-meridians.webp" alt="" width="1180" height="1036" loading="eager">
+        </div>
+      </div>
+      <div class="wrap">
+        <div class="hero-features">
+          <div><span class="ico"><svg class="i"><use href="#i-user"/></svg></span><b>مدل سه‌بعدی بدن</b><small>با لایه‌های آناتومیک</small></div>
+          <div><span class="ico"><svg class="i"><use href="#i-target"/></svg></span><b>تمام نقاط طب سوزنی</b><small>با جزئیات کامل</small></div>
+          <div><span class="ico"><svg class="i"><use href="#i-layers"/></svg></span><b>مکاتب تخصصی</b><small>مستر تانگ، سوجوک و …</small></div>
+          <div><span class="ico"><svg class="i"><use href="#i-book"/></svg></span><b>منابع معتبر</b><small>با ذکر منبع و اطمینان</small></div>
         </div>
       </div>
     </section>
 
-    <section id="features" class="features-band">
-      <div class="wrap">
-        <div class="grid four">
-          <article class="feature"><svg class="i"><use href="#i-layers"/></svg><h3>اطلس سه‌بعدی</h3><p>نمایش لایه‌های بدن</p></article>
-          <article class="feature"><svg class="i"><use href="#i-search"/></svg><h3>جست‌وجوی نقطه</h3><p>با نام، کد یا مریدین</p></article>
-          <article class="feature"><svg class="i"><use href="#i-info"/></svg><h3>محتوای آموزشی</h3><p>با منابع معتبر</p></article>
-          <article class="feature"><svg class="i"><use href="#i-phone"/></svg><h3>همراه همیشه</h3><p>روی گوشی و رایانه</p></article>
+    <section class="strip">
+      <div class="wrap strip-grid">
+        <div class="strip-brand">
+          <img src="./icon.svg" width="56" height="56" alt="">
+          <span><span class="wordmark" dir="ltr" lang="en"><b>Atlas</b><i>Cure</i></span><small>اطلس درمان</small></span>
         </div>
+        <a class="strip-card" data-app="#/s/tcm/m/body-male/mer/LU" href="app/#/s/tcm/m/body-male/mer/LU">
+          <span><b>نقطهٔ درست،</b><b>تأثیر واقعی</b><small>هر نقطه روی مدل سه‌بعدی، با محل دقیق و کاربرد</small></span>
+          <img src="./assets/hand.webp" alt="" width="390" height="665" loading="lazy">
+        </a>
+        <p class="tagline">طب سوزنی <i>•</i> دانش <i>•</i> دقت <i>•</i> سلامت</p>
       </div>
     </section>
 
@@ -164,7 +182,7 @@
   <footer class="foot">
     <div class="wrap foot-grid">
       <div>
-        <a class="brand" href="./"><img class="brand-logo" src="./icon.svg" width="38" height="38" alt=""><span class="brand-text"><span class="wordmark" dir="ltr" lang="en"><b>Atlas</b><i>cure</i></span><small>اطلس سه‌بعدی طب سوزنی</small></span></a>
+        <a class="brand" href="./"><img class="brand-logo" src="./icon.svg" width="40" height="40" alt=""><span class="brand-text"><span class="wordmark" dir="ltr" lang="en"><b>Atlas</b><i>Cure</i></span><small>اطلس درمان · اطلس سه‌بعدی طب سوزنی</small></span></a>
         <p class="disclaimer">این سامانه یک ابزار آموزشی است و جایگزین پزشک، تشخیص پزشکی یا تجویز درمان نیست.</p>
       </div>
       <nav class="foot-links" aria-label="پیوندها">
