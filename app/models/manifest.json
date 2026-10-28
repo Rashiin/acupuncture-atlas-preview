@@ -13,11 +13,11 @@
   "ear-r": {
     "id": "ear-r",
     "title_fa": "گوش راست",
-    "file": "models/ear-r.glb?v=4d26608ff7",
+    "file": "models/ear-r.glb?v=62bc9cc907",
     "layers": [
       "skin"
     ],
-    "size": 20692
+    "size": 334808
   },
   "foot-r": {
     "id": "foot-r",
@@ -57,16 +57,16 @@
   "ear-l": {
     "id": "ear-l",
     "title_fa": "گوش چپ",
-    "file": "models/ear-l.glb?v=29adb2ec1c",
+    "file": "models/ear-l.glb?v=1f1847db2c",
     "layers": [
       "skin"
     ],
-    "size": 21948
+    "size": 334372
   },
   "head": {
     "id": "head",
     "title_fa": "سر",
-    "file": "models/head.glb?v=0d8577e8e1",
+    "file": "models/head.glb?v=d6e6c8b5d1",
     "layers": [
       "skin",
       "muscle",
@@ -74,7 +74,7 @@
       "bone",
       "organ"
     ],
-    "size": 3375416
+    "size": 3489044
   },
   "body-male": {
     "id": "body-male",
