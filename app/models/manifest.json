@@ -66,7 +66,7 @@
   "head": {
     "id": "head",
     "title_fa": "سر",
-    "file": "models/head.glb?v=d6e6c8b5d1",
+    "file": "models/head.glb?v=a7f58c3252",
     "layers": [
       "skin",
       "muscle",
@@ -74,12 +74,12 @@
       "bone",
       "organ"
     ],
-    "size": 3489044
+    "size": 2814064
   },
   "body-male": {
     "id": "body-male",
     "title_fa": "بدن کامل (مرد)",
-    "file": "models/body-male.glb?v=3327745a67",
+    "file": "models/body-male.glb?v=2fc60203e2",
     "layers": [
       "skin",
       "muscle",
@@ -87,6 +87,6 @@
       "bone",
       "organ"
     ],
-    "size": 16350772
+    "size": 15753812
   }
 }
