@@ -1,6 +1,6 @@
 {
  "version": 0,
- "updated_at": "2026-10-30T07:23:38.669Z",
+ "updated_at": "2026-10-31T07:27:23.448Z",
  "points": [
   {
    "id": "p-lu1",
@@ -76,7 +76,27 @@
    "meridian": "LU",
    "number": 1,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 91494,
+    "bary": [
+     0.515041,
+     0.208132,
+     0.276827
+    ],
+    "p": [
+     0.12887,
+     1.30886,
+     0.15892
+    ],
+    "n": [
+     0.239,
+     0.4809,
+     0.8436
+    ]
+   }
   },
   {
    "id": "p-lu2",
@@ -149,7 +169,27 @@
    "meridian": "LU",
    "number": 2,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 91500,
+    "bary": [
+     0.216516,
+     0.622512,
+     0.160972
+    ],
+    "p": [
+     0.12539,
+     1.32504,
+     0.14783
+    ],
+    "n": [
+     0.0092,
+     0.5992,
+     0.8006
+    ]
+   }
   },
   {
    "id": "p-lu3",
@@ -223,7 +263,27 @@
    "meridian": "LU",
    "number": 3,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 66535,
+    "bary": [
+     0.033209,
+     0.483176,
+     0.483615
+    ],
+    "p": [
+     0.21212,
+     1.2051,
+     0.10836
+    ],
+    "n": [
+     0.7168,
+     0.0842,
+     0.6921
+    ]
+   }
   },
   {
    "id": "p-lu4",
@@ -296,7 +356,27 @@
    "meridian": "LU",
    "number": 4,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 66518,
+    "bary": [
+     0.215124,
+     0.382368,
+     0.402507
+    ],
+    "p": [
+     0.21675,
+     1.17984,
+     0.10857
+    ],
+    "n": [
+     0.7139,
+     0.1745,
+     0.6782
+    ]
+   }
   },
   {
    "id": "p-lu5",
@@ -370,7 +450,27 @@
    "meridian": "LU",
    "number": 5,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 65408,
+    "bary": [
+     0.3958,
+     0.174907,
+     0.429292
+    ],
+    "p": [
+     0.21701,
+     1.06356,
+     0.11888
+    ],
+    "n": [
+     -0.0552,
+     -0.1124,
+     0.9921
+    ]
+   }
   },
   {
    "id": "p-lu6",
@@ -443,7 +543,27 @@
    "meridian": "LU",
    "number": 6,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62233,
+    "bary": [
+     0.162479,
+     0.505011,
+     0.33251
+    ],
+    "p": [
+     0.24891,
+     0.95864,
+     0.11555
+    ],
+    "n": [
+     0.5712,
+     0.0683,
+     0.818
+    ]
+   }
   },
   {
    "id": "p-lu7",
@@ -562,7 +682,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61626,
+    "bary": [
+     0.276118,
+     0.130996,
+     0.592886
+    ],
+    "p": [
+     0.27175,
+     0.84144,
+     0.11471
+    ],
+    "n": [
+     0.9886,
+     0.1501,
+     -0.0118
+    ]
+   }
   },
   {
    "id": "p-lu8",
@@ -680,7 +820,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61240,
+    "bary": [
+     0.271216,
+     0.676579,
+     0.052205
+    ],
+    "p": [
+     0.27015,
+     0.83243,
+     0.12608
+    ],
+    "n": [
+     0.7337,
+     0.1764,
+     0.6562
+    ]
+   }
   },
   {
    "id": "p-lu9",
@@ -797,7 +957,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61287,
+    "bary": [
+     0.810931,
+     0.159669,
+     0.029401
+    ],
+    "p": [
+     0.26964,
+     0.81132,
+     0.13129
+    ],
+    "n": [
+     0.4194,
+     0.3664,
+     0.8306
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -919,7 +1099,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61327,
+    "bary": [
+     0.595586,
+     0.201572,
+     0.202842
+    ],
+    "p": [
+     0.29839,
+     0.78717,
+     0.1492
+    ],
+    "n": [
+     0.4845,
+     0.8523,
+     0.1971
+    ]
+   }
   },
   {
    "id": "p-lu11",
@@ -1036,7 +1236,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 49493,
+    "bary": [
+     0.952109,
+     0,
+     0.047891
+    ],
+    "p": [
+     0.32396,
+     0.72495,
+     0.16727
+    ],
+    "n": [
+     -0.8454,
+     -0.344,
+     0.4087
+    ]
+   }
   },
   {
    "id": "p-li1",
@@ -1154,7 +1374,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 41861,
+    "bary": [
+     0.14601,
+     0.239663,
+     0.614327
+    ],
+    "p": [
+     0.31269,
+     0.66829,
+     0.17941
+    ],
+    "n": [
+     -0.5861,
+     0.7855,
+     0.1987
+    ]
+   }
   },
   {
    "id": "p-li2",
@@ -1272,7 +1512,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 47860,
+    "bary": [
+     0.382038,
+     0.356694,
+     0.261268
+    ],
+    "p": [
+     0.29384,
+     0.71758,
+     0.14479
+    ],
+    "n": [
+     -0.8978,
+     -0.1915,
+     0.3965
+    ]
+   }
   },
   {
    "id": "p-li3",
@@ -1390,7 +1650,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 49711,
+    "bary": [
+     0.221106,
+     0.490313,
+     0.288581
+    ],
+    "p": [
+     0.29047,
+     0.73203,
+     0.13794
+    ],
+    "n": [
+     0.9303,
+     -0.2424,
+     -0.2752
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -1522,7 +1802,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 49789,
+    "bary": [
+     0.493883,
+     0.387329,
+     0.118788
+    ],
+    "p": [
+     0.29099,
+     0.7601,
+     0.12508
+    ],
+    "n": [
+     0.5963,
+     -0.1806,
+     -0.7822
+    ]
+   }
   },
   {
    "id": "p-li5",
@@ -1639,7 +1939,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61131,
+    "bary": [
+     0.193311,
+     0.499914,
+     0.306776
+    ],
+    "p": [
+     0.27317,
+     0.80753,
+     0.10957
+    ],
+    "n": [
+     0.7524,
+     0.0151,
+     -0.6585
+    ]
+   }
   },
   {
    "id": "p-li6",
@@ -1757,7 +2077,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61578,
+    "bary": [
+     0.141402,
+     0.241213,
+     0.617385
+    ],
+    "p": [
+     0.26608,
+     0.869,
+     0.09307
+    ],
+    "n": [
+     0.9411,
+     -0.0319,
+     -0.3365
+    ]
+   }
   },
   {
    "id": "p-li7",
@@ -1829,7 +2169,27 @@
    "meridian": "LI",
    "number": 7,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61823,
+    "bary": [
+     0.398393,
+     0.103628,
+     0.497979
+    ],
+    "p": [
+     0.26205,
+     0.90973,
+     0.08015
+    ],
+    "n": [
+     0.8402,
+     -0.0449,
+     -0.5405
+    ]
+   }
   },
   {
    "id": "p-li8",
@@ -1901,7 +2261,27 @@
    "meridian": "LI",
    "number": 8,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62199,
+    "bary": [
+     0.67531,
+     0.29215,
+     0.03254
+    ],
+    "p": [
+     0.2545,
+     0.97139,
+     0.06502
+    ],
+    "n": [
+     0.7809,
+     -0.0375,
+     -0.6235
+    ]
+   }
   },
   {
    "id": "p-li9",
@@ -1972,7 +2352,27 @@
    "meridian": "LI",
    "number": 9,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62197,
+    "bary": [
+     0.246177,
+     0.039445,
+     0.714378
+    ],
+    "p": [
+     0.25146,
+     0.99191,
+     0.06027
+    ],
+    "n": [
+     0.7794,
+     -0.0204,
+     -0.6262
+    ]
+   }
   },
   {
    "id": "p-li10",
@@ -2044,7 +2444,27 @@
    "meridian": "LI",
    "number": 10,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 64782,
+    "bary": [
+     0.6108,
+     0.272413,
+     0.116787
+    ],
+    "p": [
+     0.24929,
+     1.0132,
+     0.05847
+    ],
+    "n": [
+     0.7932,
+     0.0745,
+     -0.6044
+    ]
+   }
   },
   {
    "id": "p-li11",
@@ -2119,7 +2539,27 @@
    "meridian": "LI",
    "number": 11,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 64997,
+    "bary": [
+     0.288264,
+     0.639845,
+     0.071891
+    ],
+    "p": [
+     0.24884,
+     1.06002,
+     0.07173
+    ],
+    "n": [
+     0.9202,
+     0.1848,
+     -0.3452
+    ]
+   }
   },
   {
    "id": "p-li12",
@@ -2191,7 +2631,27 @@
    "meridian": "LI",
    "number": 12,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 64977,
+    "bary": [
+     0.174642,
+     0.821809,
+     0.003549
+    ],
+    "p": [
+     0.23625,
+     1.08128,
+     0.05503
+    ],
+    "n": [
+     0.7675,
+     0.0481,
+     -0.6392
+    ]
+   }
   },
   {
    "id": "p-li13",
@@ -2263,7 +2723,27 @@
    "meridian": "LI",
    "number": 13,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 66050,
+    "bary": [
+     0.019722,
+     0.485601,
+     0.494677
+    ],
+    "p": [
+     0.23845,
+     1.13289,
+     0.06858
+    ],
+    "n": [
+     0.979,
+     0.1102,
+     -0.1714
+    ]
+   }
   },
   {
    "id": "p-li14",
@@ -2335,7 +2815,27 @@
    "meridian": "LI",
    "number": 14,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 88752,
+    "bary": [
+     0.780292,
+     0.056576,
+     0.163132
+    ],
+    "p": [
+     0.229,
+     1.23486,
+     0.07704
+    ],
+    "n": [
+     0.9866,
+     0.0464,
+     0.1561
+    ]
+   }
   },
   {
    "id": "p-li15",
@@ -2408,7 +2908,27 @@
    "meridian": "LI",
    "number": 15,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 91739,
+    "bary": [
+     0.363293,
+     0.630005,
+     0.006702
+    ],
+    "p": [
+     0.21261,
+     1.34587,
+     0.09611
+    ],
+    "n": [
+     0.8441,
+     0.4266,
+     0.3248
+    ]
+   }
   },
   {
    "id": "p-li16",
@@ -2479,7 +2999,27 @@
    "meridian": "LI",
    "number": 16,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89118,
+    "bary": [
+     0.182012,
+     0.58807,
+     0.229918
+    ],
+    "p": [
+     0.14659,
+     1.38566,
+     0.04168
+    ],
+    "n": [
+     0.1328,
+     0.8736,
+     -0.4681
+    ]
+   }
   },
   {
    "id": "p-li17",
@@ -2552,7 +3092,27 @@
    "meridian": "LI",
    "number": 17,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 90934,
+    "bary": [
+     0.280803,
+     0.068506,
+     0.65069
+    ],
+    "p": [
+     0.07779,
+     1.38197,
+     0.09782
+    ],
+    "n": [
+     0.4238,
+     0.7199,
+     0.5496
+    ]
+   }
   },
   {
    "id": "p-li18",
@@ -2625,7 +3185,27 @@
    "meridian": "LI",
    "number": 18,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 90124,
+    "bary": [
+     0.265364,
+     0.079924,
+     0.654712
+    ],
+    "p": [
+     0.05427,
+     1.40697,
+     0.09673
+    ],
+    "n": [
+     0.7427,
+     0.3986,
+     0.538
+    ]
+   }
   },
   {
    "id": "p-li19",
@@ -2699,7 +3279,27 @@
    "meridian": "LI",
    "number": 19,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 97993,
+    "bary": [
+     0.193399,
+     0.09546,
+     0.711142
+    ],
+    "p": [
+     0.009,
+     1.44801,
+     0.18395
+    ],
+    "n": [
+     -0.2982,
+     0.1544,
+     -0.9419
+    ]
+   }
   },
   {
    "id": "p-li20",
@@ -2772,7 +3372,27 @@
    "meridian": "LI",
    "number": 20,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 99265,
+    "bary": [
+     0.361435,
+     0.192611,
+     0.445954
+    ],
+    "p": [
+     0.021,
+     1.46068,
+     0.17863
+    ],
+    "n": [
+     -0.3626,
+     -0.1749,
+     -0.9154
+    ]
+   }
   },
   {
    "id": "p-st1",
@@ -2845,7 +3465,27 @@
    "meridian": "ST",
    "number": 1,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 103377,
+    "bary": [
+     0.021465,
+     0.050905,
+     0.92763
+    ],
+    "p": [
+     0.02948,
+     1.50868,
+     0.17506
+    ],
+    "n": [
+     0.0456,
+     0.2523,
+     -0.9666
+    ]
+   }
   },
   {
    "id": "p-st2",
@@ -2918,7 +3558,27 @@
    "meridian": "ST",
    "number": 2,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 102481,
+    "bary": [
+     0.401773,
+     0.191397,
+     0.406829
+    ],
+    "p": [
+     0.02948,
+     1.50068,
+     0.17588
+    ],
+    "n": [
+     -0.2238,
+     -0.0935,
+     -0.9701
+    ]
+   }
   },
   {
    "id": "p-st3",
@@ -2992,7 +3652,27 @@
    "meridian": "ST",
    "number": 3,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 99298,
+    "bary": [
+     0.735526,
+     0.220354,
+     0.04412
+    ],
+    "p": [
+     0.02948,
+     1.45868,
+     0.17637
+    ],
+    "n": [
+     -0.3212,
+     -0.0099,
+     -0.9469
+    ]
+   }
   },
   {
    "id": "p-st4",
@@ -3066,7 +3746,27 @@
    "meridian": "ST",
    "number": 4,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 98048,
+    "bary": [
+     0.219719,
+     0.063394,
+     0.716887
+    ],
+    "p": [
+     0.02299,
+     1.42568,
+     0.17464
+    ],
+    "n": [
+     -0.4923,
+     0.4452,
+     -0.748
+    ]
+   }
   },
   {
    "id": "p-st5",
@@ -3081,21 +3781,21 @@
    "anchor": {
     "model": "body-male",
     "mesh": "skin",
-    "face": 76766,
+    "face": 75362,
     "bary": [
-     0.129142,
-     0.459691,
-     0.411167
+     0.125396,
+     0.403168,
+     0.471435
     ],
     "p": [
-     -0.03245,
-     1.44451,
-     0.16086
+     -0.04054,
+     1.45605,
+     0.1378
     ],
     "n": [
-     -0.8063,
-     -0.1352,
-     0.5759
+     -0.9811,
+     -0.0012,
+     0.1934
     ]
    },
    "location_fa": "روی صورت، جلوی زاویه‌ی فک پایین، روی لبه‌ی جلویی عضله‌ی ماستر وقتی دندان‌ها به هم فشرده می‌شوند، روی نبض شریان صورتی",
@@ -3139,7 +3839,27 @@
    "meridian": "ST",
    "number": 5,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96026,
+    "bary": [
+     0.386658,
+     0.161229,
+     0.452112
+    ],
+    "p": [
+     0.03884,
+     1.45584,
+     0.1382
+    ],
+    "n": [
+     0.9809,
+     -0.0064,
+     0.1946
+    ]
+   }
   },
   {
    "id": "p-st6",
@@ -3154,21 +3874,21 @@
    "anchor": {
     "model": "body-male",
     "mesh": "skin",
-    "face": 96268,
+    "face": 75353,
     "bary": [
-     0.759856,
-     0.130062,
-     0.110082
+     0.708629,
+     0.124149,
+     0.167222
     ],
     "p": [
-     0.03997,
-     1.46504,
-     0.12038
+     -0.04153,
+     1.46508,
+     0.12082
     ],
     "n": [
-     -0.9885,
-     -0.1371,
-     -0.064
+     -0.9872,
+     0.1462,
+     0.0642
     ]
    },
    "location_fa": "روی گونه، روی برجستگی عضله‌ی ماستر حدود یک انگشت بالای زاویه‌ی فک وقتی دندان‌ها به هم فشرده‌اند",
@@ -3211,7 +3931,27 @@
    "meridian": "ST",
    "number": 6,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96268,
+    "bary": [
+     0.72487,
+     0.128772,
+     0.146358
+    ],
+    "p": [
+     0.03994,
+     1.46504,
+     0.12077
+    ],
+    "n": [
+     0.9885,
+     0.1371,
+     0.064
+    ]
+   }
   },
   {
    "id": "p-st7",
@@ -3284,7 +4024,27 @@
    "meridian": "ST",
    "number": 7,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96745,
+    "bary": [
+     0.463155,
+     0.1288,
+     0.408045
+    ],
+    "p": [
+     0.07385,
+     1.49502,
+     0.1028
+    ],
+    "n": [
+     0.9847,
+     -0.0801,
+     0.1548
+    ]
+   }
   },
   {
    "id": "p-st8",
@@ -3357,7 +4117,27 @@
    "meridian": "ST",
    "number": 8,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 95795,
+    "bary": [
+     0.43094,
+     0.159299,
+     0.40976
+    ],
+    "p": [
+     0.07482,
+     1.56962,
+     0.07872
+    ],
+    "n": [
+     0.991,
+     0.1204,
+     0.0588
+    ]
+   }
   },
   {
    "id": "p-st9",
@@ -3429,7 +4209,27 @@
    "meridian": "ST",
    "number": 9,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 90109,
+    "bary": [
+     0.071323,
+     0.454615,
+     0.474063
+    ],
+    "p": [
+     0.0369,
+     1.40697,
+     0.11388
+    ],
+    "n": [
+     0.5476,
+     0.4172,
+     0.7254
+    ]
+   }
   },
   {
    "id": "p-st10",
@@ -3501,7 +4301,27 @@
    "meridian": "ST",
    "number": 10,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89754,
+    "bary": [
+     0.306933,
+     0.062488,
+     0.630579
+    ],
+    "p": [
+     0.04155,
+     1.36832,
+     0.12649
+    ],
+    "n": [
+     0.3475,
+     0.236,
+     0.9075
+    ]
+   }
   },
   {
    "id": "p-st11",
@@ -3573,7 +4393,27 @@
    "meridian": "ST",
    "number": 11,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89638,
+    "bary": [
+     0.684589,
+     0.173182,
+     0.142229
+    ],
+    "p": [
+     0.0067,
+     1.34091,
+     0.14063
+    ],
+    "n": [
+     -0.0027,
+     0.4042,
+     0.9147
+    ]
+   }
   },
   {
    "id": "p-st12",
@@ -3647,7 +4487,27 @@
    "meridian": "ST",
    "number": 12,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 90940,
+    "bary": [
+     0.197152,
+     0.677838,
+     0.12501
+    ],
+    "p": [
+     0.07616,
+     1.3646,
+     0.11599
+    ],
+    "n": [
+     0.248,
+     0.614,
+     0.7493
+    ]
+   }
   },
   {
    "id": "p-st13",
@@ -3719,7 +4579,27 @@
    "meridian": "ST",
    "number": 13,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 90852,
+    "bary": [
+     0.299129,
+     0.594563,
+     0.106308
+    ],
+    "p": [
+     0.08425,
+     1.31595,
+     0.15217
+    ],
+    "n": [
+     0.0232,
+     0.4784,
+     0.8778
+    ]
+   }
   },
   {
    "id": "p-st14",
@@ -3734,21 +4614,21 @@
    "anchor": {
     "model": "body-male",
     "mesh": "skin",
-    "face": 69409,
+    "face": 69395,
     "bary": [
-     0.833782,
-     0.010022,
-     0.156196
+     0.243393,
+     0.382938,
+     0.373669
     ],
     "p": [
-     -0.08595,
-     1.31351,
-     0.15379
+     -0.08858,
+     1.29412,
+     0.1666
     ],
     "n": [
-     0.0036,
-     0.4531,
-     0.8914
+     0.1666,
+     0.5834,
+     0.7949
     ]
    },
    "location_fa": "روی سینه، ۴ سون خارج از خط میانی، در فضای بین‌دنده‌ای اول بین دنده‌ی اول و دوم",
@@ -3791,7 +4671,27 @@
    "meridian": "ST",
    "number": 14,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89618,
+    "bary": [
+     0.294519,
+     0.455658,
+     0.249823
+    ],
+    "p": [
+     0.08697,
+     1.29395,
+     0.16588
+    ],
+    "n": [
+     -0.1652,
+     0.5831,
+     0.7954
+    ]
+   }
   },
   {
    "id": "p-st15",
@@ -3863,7 +4763,27 @@
    "meridian": "ST",
    "number": 15,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89596,
+    "bary": [
+     0.02466,
+     0.240934,
+     0.734405
+    ],
+    "p": [
+     0.08943,
+     1.27462,
+     0.18008
+    ],
+    "n": [
+     -0.1183,
+     0.5663,
+     0.8157
+    ]
+   }
   },
   {
    "id": "p-st16",
@@ -3935,7 +4855,27 @@
    "meridian": "ST",
    "number": 16,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89558,
+    "bary": [
+     0.161029,
+     0.388097,
+     0.450874
+    ],
+    "p": [
+     0.09233,
+     1.24113,
+     0.19937
+    ],
+    "n": [
+     -0.0281,
+     0.4545,
+     0.8903
+    ]
+   }
   },
   {
    "id": "p-st17",
@@ -4005,7 +4945,27 @@
    "meridian": "ST",
    "number": 17,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63915,
+    "bary": [
+     0.25968,
+     0.08103,
+     0.65929
+    ],
+    "p": [
+     0.09436,
+     1.20189,
+     0.21331
+    ],
+    "n": [
+     0.1859,
+     0.1666,
+     0.9684
+    ]
+   }
   },
   {
    "id": "p-st18",
@@ -4078,7 +5038,27 @@
    "meridian": "ST",
    "number": 18,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63636,
+    "bary": [
+     0.515627,
+     0.165066,
+     0.319307
+    ],
+    "p": [
+     0.09321,
+     1.16472,
+     0.21383
+    ],
+    "n": [
+     0.3479,
+     -0.1979,
+     0.9164
+    ]
+   }
   },
   {
    "id": "p-st19",
@@ -4150,7 +5130,27 @@
    "meridian": "ST",
    "number": 19,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63359,
+    "bary": [
+     0.518318,
+     0.356983,
+     0.1247
+    ],
+    "p": [
+     0.04309,
+     1.12917,
+     0.21551
+    ],
+    "n": [
+     -0.0161,
+     0.0476,
+     0.9987
+    ]
+   }
   },
   {
    "id": "p-st20",
@@ -4221,7 +5221,27 @@
    "meridian": "ST",
    "number": 20,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63355,
+    "bary": [
+     0.049423,
+     0.437398,
+     0.513179
+    ],
+    "p": [
+     0.04282,
+     1.10392,
+     0.21642
+    ],
+    "n": [
+     0.0219,
+     0.0353,
+     0.9991
+    ]
+   }
   },
   {
    "id": "p-st21",
@@ -4292,7 +5312,27 @@
    "meridian": "ST",
    "number": 21,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63124,
+    "bary": [
+     0.232961,
+     0.4329,
+     0.334139
+    ],
+    "p": [
+     0.04245,
+     1.07868,
+     0.21764
+    ],
+    "n": [
+     0.0272,
+     0.0537,
+     0.9982
+    ]
+   }
   },
   {
    "id": "p-st22",
@@ -4364,7 +5404,27 @@
    "meridian": "ST",
    "number": 22,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63112,
+    "bary": [
+     0.322779,
+     0.431548,
+     0.245673
+    ],
+    "p": [
+     0.04215,
+     1.05344,
+     0.21842
+    ],
+    "n": [
+     0.0404,
+     -0.0004,
+     0.9992
+    ]
+   }
   },
   {
    "id": "p-st23",
@@ -4435,7 +5495,27 @@
    "meridian": "ST",
    "number": 23,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63070,
+    "bary": [
+     0.274036,
+     0.414222,
+     0.311742
+    ],
+    "p": [
+     0.0419,
+     1.0282,
+     0.21803
+    ],
+    "n": [
+     0.0847,
+     -0.0298,
+     0.996
+    ]
+   }
   },
   {
    "id": "p-st24",
@@ -4506,7 +5586,27 @@
    "meridian": "ST",
    "number": 24,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63050,
+    "bary": [
+     0.07381,
+     0.363882,
+     0.562308
+    ],
+    "p": [
+     0.04189,
+     1.00296,
+     0.218
+    ],
+    "n": [
+     0.1426,
+     0.005,
+     0.9898
+    ]
+   }
   },
   {
    "id": "p-st25",
@@ -4579,7 +5679,27 @@
    "meridian": "ST",
    "number": 25,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60056,
+    "bary": [
+     0.616617,
+     0.162446,
+     0.220937
+    ],
+    "p": [
+     0.04212,
+     0.97771,
+     0.22081
+    ],
+    "n": [
+     0.1908,
+     0.1803,
+     0.9649
+    ]
+   }
   },
   {
    "id": "p-st26",
@@ -4650,7 +5770,27 @@
    "meridian": "ST",
    "number": 26,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59940,
+    "bary": [
+     0.000199,
+     0.574842,
+     0.424959
+    ],
+    "p": [
+     0.04297,
+     0.94345,
+     0.22574
+    ],
+    "n": [
+     0.1651,
+     0.0586,
+     0.9845
+    ]
+   }
   },
   {
    "id": "p-st27",
@@ -4721,7 +5861,27 @@
    "meridian": "ST",
    "number": 27,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59922,
+    "bary": [
+     0.542171,
+     0.289061,
+     0.168768
+    ],
+    "p": [
+     0.04303,
+     0.90919,
+     0.22694
+    ],
+    "n": [
+     0.1437,
+     -0.0152,
+     0.9895
+    ]
+   }
   },
   {
    "id": "p-st28",
@@ -4792,7 +5952,27 @@
    "meridian": "ST",
    "number": 28,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59725,
+    "bary": [
+     0.505446,
+     0.11728,
+     0.377274
+    ],
+    "p": [
+     0.04298,
+     0.87492,
+     0.22599
+    ],
+    "n": [
+     0.1709,
+     -0.0186,
+     0.9851
+    ]
+   }
   },
   {
    "id": "p-st29",
@@ -4863,7 +6043,27 @@
    "meridian": "ST",
    "number": 29,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59715,
+    "bary": [
+     0.296384,
+     0.243072,
+     0.460545
+    ],
+    "p": [
+     0.04293,
+     0.84066,
+     0.22474
+    ],
+    "n": [
+     0.2506,
+     -0.0451,
+     0.9671
+    ]
+   }
   },
   {
    "id": "p-st30",
@@ -4934,7 +6134,27 @@
    "meridian": "ST",
    "number": 30,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59674,
+    "bary": [
+     0.072003,
+     0.044165,
+     0.883833
+    ],
+    "p": [
+     0.04271,
+     0.80639,
+     0.22007
+    ],
+    "n": [
+     0.3017,
+     -0.1756,
+     0.9371
+    ]
+   }
   },
   {
    "id": "p-st31",
@@ -5005,7 +6225,27 @@
    "meridian": "ST",
    "number": 31,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 38781,
+    "bary": [
+     0.334849,
+     0.058031,
+     0.60712
+    ],
+    "p": [
+     0.13587,
+     0.7472,
+     0.15421
+    ],
+    "n": [
+     0.9473,
+     0.0644,
+     0.314
+    ]
+   }
   },
   {
    "id": "p-st32",
@@ -5076,7 +6316,27 @@
    "meridian": "ST",
    "number": 32,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 37197,
+    "bary": [
+     0.437585,
+     0.08642,
+     0.475995
+    ],
+    "p": [
+     0.15381,
+     0.51597,
+     0.14877
+    ],
+    "n": [
+     0.6898,
+     -0.1154,
+     0.7147
+    ]
+   }
   },
   {
    "id": "p-st33",
@@ -5146,7 +6406,27 @@
    "meridian": "ST",
    "number": 33,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36697,
+    "bary": [
+     0.237947,
+     0.759094,
+     0.002959
+    ],
+    "p": [
+     0.15386,
+     0.4544,
+     0.13626
+    ],
+    "n": [
+     0.732,
+     -0.0966,
+     0.6745
+    ]
+   }
   },
   {
    "id": "p-st34",
@@ -5217,7 +6497,27 @@
    "meridian": "ST",
    "number": 34,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36690,
+    "bary": [
+     0.547968,
+     0.307304,
+     0.144727
+    ],
+    "p": [
+     0.15704,
+     0.43437,
+     0.12751
+    ],
+    "n": [
+     0.8706,
+     -0.0749,
+     0.4863
+    ]
+   }
   },
   {
    "id": "p-st35",
@@ -5288,7 +6588,27 @@
    "meridian": "ST",
    "number": 35,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36541,
+    "bary": [
+     0.104212,
+     0.058144,
+     0.837643
+    ],
+    "p": [
+     0.16345,
+     0.39824,
+     0.10276
+    ],
+    "n": [
+     0.9759,
+     0.0667,
+     0.2078
+    ]
+   }
   },
   {
    "id": "p-st36",
@@ -5362,7 +6682,27 @@
    "meridian": "ST",
    "number": 36,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 20710,
+    "bary": [
+     0.049547,
+     0.732148,
+     0.218305
+    ],
+    "p": [
+     0.17312,
+     0.32211,
+     0.102
+    ],
+    "n": [
+     0.8165,
+     0.0723,
+     0.5728
+    ]
+   }
   },
   {
    "id": "p-st37",
@@ -5434,7 +6774,27 @@
    "meridian": "ST",
    "number": 37,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 20556,
+    "bary": [
+     0.049628,
+     0.796958,
+     0.153413
+    ],
+    "p": [
+     0.18071,
+     0.24579,
+     0.09993
+    ],
+    "n": [
+     0.592,
+     0.0399,
+     0.8049
+    ]
+   }
   },
   {
    "id": "p-st38",
@@ -5505,7 +6865,27 @@
    "meridian": "ST",
    "number": 38,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 20021,
+    "bary": [
+     0.684256,
+     0.000646,
+     0.315098
+    ],
+    "p": [
+     0.1844,
+     0.19479,
+     0.09767
+    ],
+    "n": [
+     0.673,
+     0.0045,
+     0.7396
+    ]
+   }
   },
   {
    "id": "p-st39",
@@ -5576,7 +6956,27 @@
    "meridian": "ST",
    "number": 39,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 19995,
+    "bary": [
+     0.150634,
+     0.029667,
+     0.8197
+    ],
+    "p": [
+     0.18595,
+     0.16926,
+     0.09636
+    ],
+    "n": [
+     0.7703,
+     0,
+     0.6376
+    ]
+   }
   },
   {
    "id": "p-st40",
@@ -5648,7 +7048,27 @@
    "meridian": "ST",
    "number": 40,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 19997,
+    "bary": [
+     0.501145,
+     0.002264,
+     0.496592
+    ],
+    "p": [
+     0.19423,
+     0.19613,
+     0.08443
+    ],
+    "n": [
+     0.8666,
+     0.0065,
+     0.499
+    ]
+   }
   },
   {
    "id": "p-st41",
@@ -5764,7 +7184,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12026,
+    "bary": [
+     0.313651,
+     0.562276,
+     0.124073
+    ],
+    "p": [
+     0.18478,
+     0.01175,
+     0.11428
+    ],
+    "n": [
+     0.5621,
+     0.4081,
+     0.7194
+    ]
+   }
   },
   {
    "id": "p-st42",
@@ -5879,7 +7319,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12015,
+    "bary": [
+     0.775696,
+     0.15806,
+     0.066244
+    ],
+    "p": [
+     0.19797,
+     -0.00988,
+     0.12181
+    ],
+    "n": [
+     0.5727,
+     0.6994,
+     0.4276
+    ]
+   }
   },
   {
    "id": "p-st43",
@@ -5995,7 +7455,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12822,
+    "bary": [
+     0.600169,
+     0.178062,
+     0.221769
+    ],
+    "p": [
+     0.21716,
+     -0.04479,
+     0.16351
+    ],
+    "n": [
+     0.4007,
+     0.864,
+     0.3049
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -6116,7 +7596,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 15470,
+    "bary": [
+     0.300371,
+     0.30687,
+     0.392759
+    ],
+    "p": [
+     0.2241,
+     -0.05365,
+     0.18101
+    ],
+    "n": [
+     -0.1359,
+     0.8301,
+     0.5408
+    ]
+   }
   },
   {
    "id": "p-st45",
@@ -6232,7 +7732,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 18888,
+    "bary": [
+     0,
+     1,
+     0
+    ],
+    "p": [
+     0.23969,
+     -0.05826,
+     0.22174
+    ],
+    "n": [
+     -0.6962,
+     -0.712,
+     0.0913
+    ]
+   }
   },
   {
    "id": "p-sp1",
@@ -6347,7 +7867,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 16284,
+    "bary": [
+     0.402117,
+     0.567835,
+     0.030048
+    ],
+    "p": [
+     0.20931,
+     -0.0562,
+     0.2244
+    ],
+    "n": [
+     -0.0875,
+     -0.9473,
+     -0.3081
+    ]
+   }
   },
   {
    "id": "p-sp2",
@@ -6462,7 +8002,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 15010,
+    "bary": [
+     0.645439,
+     0.243962,
+     0.110599
+    ],
+    "p": [
+     0.18665,
+     -0.05673,
+     0.19337
+    ],
+    "n": [
+     -0.7974,
+     0.3966,
+     0.4548
+    ]
+   }
   },
   {
    "id": "p-sp3",
@@ -6577,7 +8137,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 15020,
+    "bary": [
+     0.394061,
+     0.191686,
+     0.414253
+    ],
+    "p": [
+     0.18434,
+     -0.05293,
+     0.18326
+    ],
+    "n": [
+     -0.7909,
+     0.5488,
+     0.2709
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -6697,7 +8277,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12891,
+    "bary": [
+     0.021016,
+     0.002718,
+     0.976266
+    ],
+    "p": [
+     0.17593,
+     -0.03431,
+     0.14648
+    ],
+    "n": [
+     -0.7719,
+     0.4524,
+     0.4467
+    ]
+   }
   },
   {
    "id": "p-sp5",
@@ -6812,7 +8412,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 11747,
+    "bary": [
+     0.029794,
+     0.472841,
+     0.497365
+    ],
+    "p": [
+     0.15141,
+     -0.01317,
+     0.09122
+    ],
+    "n": [
+     -0.952,
+     -0.1126,
+     0.2847
+    ]
+   }
   },
   {
    "id": "p-sp6",
@@ -6928,7 +8548,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12229,
+    "bary": [
+     0.590751,
+     0.397952,
+     0.011296
+    ],
+    "p": [
+     0.13966,
+     0.06239,
+     0.0731
+    ],
+    "n": [
+     -0.9322,
+     -0.2642,
+     0.2475
+    ]
+   }
   },
   {
    "id": "p-sp7",
@@ -6999,7 +8639,27 @@
    "meridian": "SP",
    "number": 7,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 19752,
+    "bary": [
+     0.452288,
+     0.374881,
+     0.172831
+    ],
+    "p": [
+     0.11612,
+     0.13738,
+     0.07618
+    ],
+    "n": [
+     -0.8709,
+     -0.2749,
+     0.4074
+    ]
+   }
   },
   {
    "id": "p-sp8",
@@ -7070,7 +8730,27 @@
    "meridian": "SP",
    "number": 8,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 19841,
+    "bary": [
+     0.581603,
+     0.299386,
+     0.119011
+    ],
+    "p": [
+     0.09834,
+     0.23879,
+     0.08145
+    ],
+    "n": [
+     -0.7472,
+     -0.031,
+     0.6639
+    ]
+   }
   },
   {
    "id": "p-sp9",
@@ -7142,7 +8822,27 @@
    "meridian": "SP",
    "number": 9,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 20448,
+    "bary": [
+     0.182773,
+     0.317165,
+     0.500063
+    ],
+    "p": [
+     0.09645,
+     0.31602,
+     0.08714
+    ],
+    "n": [
+     -0.7534,
+     -0.3073,
+     0.5814
+    ]
+   }
   },
   {
    "id": "p-sp10",
@@ -7214,7 +8914,27 @@
    "meridian": "SP",
    "number": 10,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36473,
+    "bary": [
+     0.164216,
+     0.775517,
+     0.060267
+    ],
+    "p": [
+     0.07803,
+     0.42602,
+     0.12732
+    ],
+    "n": [
+     -0.6897,
+     -0.369,
+     0.623
+    ]
+   }
   },
   {
    "id": "p-sp11",
@@ -7285,7 +9005,27 @@
    "meridian": "SP",
    "number": 11,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 37056,
+    "bary": [
+     0.3386,
+     0.436682,
+     0.224718
+    ],
+    "p": [
+     0.03942,
+     0.54528,
+     0.14711
+    ],
+    "n": [
+     -0.7215,
+     -0.2425,
+     0.6486
+    ]
+   }
   },
   {
    "id": "p-sp12",
@@ -7356,7 +9096,27 @@
    "meridian": "SP",
    "number": 12,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59773,
+    "bary": [
+     0.522298,
+     0.086587,
+     0.391114
+    ],
+    "p": [
+     0.07426,
+     0.81239,
+     0.214
+    ],
+    "n": [
+     0.1262,
+     -0.131,
+     0.9833
+    ]
+   }
   },
   {
    "id": "p-sp13",
@@ -7427,7 +9187,27 @@
    "meridian": "SP",
    "number": 13,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59779,
+    "bary": [
+     0.53399,
+     0.130712,
+     0.335298
+    ],
+    "p": [
+     0.08483,
+     0.83038,
+     0.21355
+    ],
+    "n": [
+     0.228,
+     -0.0745,
+     0.9708
+    ]
+   }
   },
   {
    "id": "p-sp14",
@@ -7498,7 +9278,27 @@
    "meridian": "SP",
    "number": 14,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60130,
+    "bary": [
+     0.160182,
+     0.151729,
+     0.688089
+    ],
+    "p": [
+     0.08485,
+     0.93317,
+     0.21378
+    ],
+    "n": [
+     0.354,
+     0.0757,
+     0.9322
+    ]
+   }
   },
   {
    "id": "p-sp15",
@@ -7569,7 +9369,27 @@
    "meridian": "SP",
    "number": 15,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60227,
+    "bary": [
+     0.176706,
+     0.408171,
+     0.415123
+    ],
+    "p": [
+     0.08296,
+     0.97771,
+     0.20681
+    ],
+    "n": [
+     0.3475,
+     0.1343,
+     0.928
+    ]
+   }
   },
   {
    "id": "p-sp16",
@@ -7639,7 +9459,27 @@
    "meridian": "SP",
    "number": 16,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63249,
+    "bary": [
+     0.258238,
+     0.05401,
+     0.687751
+    ],
+    "p": [
+     0.08351,
+     1.05344,
+     0.20979
+    ],
+    "n": [
+     0.3302,
+     -0.0775,
+     0.9407
+    ]
+   }
   },
   {
    "id": "p-sp17",
@@ -7711,7 +9551,27 @@
    "meridian": "SP",
    "number": 17,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 66378,
+    "bary": [
+     0.232144,
+     0.726523,
+     0.041333
+    ],
+    "p": [
+     0.13414,
+     1.17401,
+     0.18359
+    ],
+    "n": [
+     0.8764,
+     -0.1825,
+     0.4456
+    ]
+   }
   },
   {
    "id": "p-sp18",
@@ -7782,7 +9642,27 @@
    "meridian": "SP",
    "number": 18,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 91402,
+    "bary": [
+     0.164729,
+     0.520287,
+     0.314984
+    ],
+    "p": [
+     0.13535,
+     1.21966,
+     0.18621
+    ],
+    "n": [
+     0.7587,
+     0.1257,
+     0.6392
+    ]
+   }
   },
   {
    "id": "p-sp19",
@@ -7852,7 +9732,27 @@
    "meridian": "SP",
    "number": 19,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 91456,
+    "bary": [
+     0.547594,
+     0.214606,
+     0.2378
+    ],
+    "p": [
+     0.13245,
+     1.26597,
+     0.17267
+    ],
+    "n": [
+     0.6721,
+     0.2372,
+     0.7015
+    ]
+   }
   },
   {
    "id": "p-sp20",
@@ -7922,7 +9822,27 @@
    "meridian": "SP",
    "number": 20,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 91481,
+    "bary": [
+     0.803757,
+     0.135522,
+     0.06072
+    ],
+    "p": [
+     0.13059,
+     1.29099,
+     0.16646
+    ],
+    "n": [
+     0.4766,
+     0.2205,
+     0.851
+    ]
+   }
   },
   {
    "id": "p-sp21",
@@ -7992,7 +9912,27 @@
    "meridian": "SP",
    "number": 21,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 66218,
+    "bary": [
+     0.064315,
+     0.498721,
+     0.436963
+    ],
+    "p": [
+     0.1543,
+     1.13812,
+     0.11063
+    ],
+    "n": [
+     0.9768,
+     -0.1998,
+     0.0771
+    ]
+   }
   },
   {
    "id": "p-ht1",
@@ -8063,7 +10003,27 @@
    "meridian": "HT",
    "number": 1,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 88661,
+    "bary": [
+     0,
+     0.411943,
+     0.588057
+    ],
+    "p": [
+     0.14025,
+     1.24698,
+     0.07508
+    ],
+    "n": [
+     -0.8692,
+     -0.4753,
+     0.1367
+    ]
+   }
   },
   {
    "id": "p-ht2",
@@ -8134,7 +10094,27 @@
    "meridian": "HT",
    "number": 2,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 65650,
+    "bary": [
+     0.341233,
+     0.305996,
+     0.352772
+    ],
+    "p": [
+     0.16271,
+     1.12103,
+     0.08451
+    ],
+    "n": [
+     -0.8958,
+     -0.0368,
+     0.443
+    ]
+   }
   },
   {
    "id": "p-ht3",
@@ -8206,7 +10186,27 @@
    "meridian": "HT",
    "number": 3,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 64391,
+    "bary": [
+     0.354818,
+     0.289281,
+     0.355901
+    ],
+    "p": [
+     0.17608,
+     1.04394,
+     0.06224
+    ],
+    "n": [
+     -0.862,
+     -0.2612,
+     -0.4345
+    ]
+   }
   },
   {
    "id": "p-ht4",
@@ -8321,7 +10321,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60608,
+    "bary": [
+     0.132819,
+     0.452431,
+     0.41475
+    ],
+    "p": [
+     0.22836,
+     0.83358,
+     0.11743
+    ],
+    "n": [
+     -0.8274,
+     -0.1699,
+     0.5352
+    ]
+   }
   },
   {
    "id": "p-ht5",
@@ -8436,7 +10456,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60891,
+    "bary": [
+     0.353379,
+     0.317427,
+     0.329193
+    ],
+    "p": [
+     0.23126,
+     0.82347,
+     0.1192
+    ],
+    "n": [
+     -0.7902,
+     -0.0918,
+     0.6059
+    ]
+   }
   },
   {
    "id": "p-ht6",
@@ -8551,7 +10591,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60861,
+    "bary": [
+     0.964078,
+     0.014906,
+     0.021016
+    ],
+    "p": [
+     0.23373,
+     0.8133,
+     0.12113
+    ],
+    "n": [
+     -0.7256,
+     -0.0861,
+     0.6827
+    ]
+   }
   },
   {
    "id": "p-ht7",
@@ -8667,7 +10727,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60734,
+    "bary": [
+     0.063009,
+     0.647458,
+     0.289533
+    ],
+    "p": [
+     0.23715,
+     0.80325,
+     0.12271
+    ],
+    "n": [
+     -0.7326,
+     -0.1043,
+     0.6726
+    ]
+   }
   },
   {
    "id": "p-ht8",
@@ -8783,7 +10863,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 46873,
+    "bary": [
+     0.356343,
+     0.119579,
+     0.524078
+    ],
+    "p": [
+     0.2374,
+     0.75002,
+     0.15219
+    ],
+    "n": [
+     0.1948,
+     0.3825,
+     0.9032
+    ]
+   }
   },
   {
    "id": "p-ht9",
@@ -8898,7 +10998,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 44167,
+    "bary": [
+     0.223285,
+     0.147614,
+     0.629101
+    ],
+    "p": [
+     0.22739,
+     0.68226,
+     0.17583
+    ],
+    "n": [
+     -0.8259,
+     0.5172,
+     0.2242
+    ]
+   }
   },
   {
    "id": "p-si1",
@@ -9014,7 +11134,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 43490,
+    "bary": [
+     0.144781,
+     0.554014,
+     0.301205
+    ],
+    "p": [
+     0.22003,
+     0.68126,
+     0.17342
+    ],
+    "n": [
+     0.1866,
+     0.8612,
+     0.4729
+    ]
+   }
   },
   {
    "id": "p-si2",
@@ -9130,7 +11270,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 46566,
+    "bary": [
+     0.315903,
+     0.672559,
+     0.011538
+    ],
+    "p": [
+     0.22279,
+     0.72772,
+     0.14203
+    ],
+    "n": [
+     0.7426,
+     0.2902,
+     0.6036
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -9252,7 +11412,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 46706,
+    "bary": [
+     0.73748,
+     0.065055,
+     0.197465
+    ],
+    "p": [
+     0.22448,
+     0.73918,
+     0.13587
+    ],
+    "n": [
+     0.7667,
+     0.0602,
+     0.6392
+    ]
+   }
   },
   {
    "id": "p-si4",
@@ -9367,7 +11547,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60678,
+    "bary": [
+     0.018389,
+     0.122458,
+     0.859153
+    ],
+    "p": [
+     0.2295,
+     0.78724,
+     0.12128
+    ],
+    "n": [
+     -0.8793,
+     0.4727,
+     0.0591
+    ]
+   }
   },
   {
    "id": "p-si5",
@@ -9483,7 +11683,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60374,
+    "bary": [
+     0.265724,
+     0.607263,
+     0.127013
+    ],
+    "p": [
+     0.24094,
+     0.79914,
+     0.09921
+    ],
+    "n": [
+     -0.4013,
+     -0.3489,
+     -0.8469
+    ]
+   }
   },
   {
    "id": "p-si6",
@@ -9599,7 +11819,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60649,
+    "bary": [
+     0.768084,
+     0.098135,
+     0.133781
+    ],
+    "p": [
+     0.24963,
+     0.82075,
+     0.08874
+    ],
+    "n": [
+     0.0272,
+     -0.3375,
+     -0.941
+    ]
+   }
   },
   {
    "id": "p-si7",
@@ -9670,7 +11910,27 @@
    "meridian": "SI",
    "number": 7,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61733,
+    "bary": [
+     0.285046,
+     0.253028,
+     0.461927
+    ],
+    "p": [
+     0.22714,
+     0.89978,
+     0.06477
+    ],
+    "n": [
+     -0.3304,
+     -0.3176,
+     -0.8888
+    ]
+   }
   },
   {
    "id": "p-si8",
@@ -9741,7 +12001,27 @@
    "meridian": "SI",
    "number": 8,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 64483,
+    "bary": [
+     0.154195,
+     0.420265,
+     0.42554
+    ],
+    "p": [
+     0.17803,
+     1.04967,
+     0.05636
+    ],
+    "n": [
+     -0.8127,
+     -0.212,
+     -0.5428
+    ]
+   }
   },
   {
    "id": "p-si9",
@@ -9812,7 +12092,27 @@
    "meridian": "SI",
    "number": 9,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89007,
+    "bary": [
+     0.124493,
+     0.577343,
+     0.298164
+    ],
+    "p": [
+     0.17092,
+     1.3148,
+     0.00887
+    ],
+    "n": [
+     0.5851,
+     -0.1536,
+     -0.7963
+    ]
+   }
   },
   {
    "id": "p-si10",
@@ -9882,7 +12182,27 @@
    "meridian": "SI",
    "number": 10,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 88411,
+    "bary": [
+     0.371282,
+     0.249714,
+     0.379004
+    ],
+    "p": [
+     0.12592,
+     1.29378,
+     -0.0166
+    ],
+    "n": [
+     0.3636,
+     0.0196,
+     -0.9314
+    ]
+   }
   },
   {
    "id": "p-si11",
@@ -9953,7 +12273,27 @@
    "meridian": "SI",
    "number": 11,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87606,
+    "bary": [
+     0.566,
+     0.328357,
+     0.105643
+    ],
+    "p": [
+     0.08171,
+     1.26401,
+     -0.02316
+    ],
+    "n": [
+     -0.1363,
+     0.0033,
+     -0.9907
+    ]
+   }
   },
   {
    "id": "p-si12",
@@ -10023,7 +12363,27 @@
    "meridian": "SI",
    "number": 12,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87621,
+    "bary": [
+     0.132723,
+     0.745381,
+     0.121897
+    ],
+    "p": [
+     0.07536,
+     1.31794,
+     -0.01145
+    ],
+    "n": [
+     -0.3383,
+     0.3002,
+     -0.8919
+    ]
+   }
   },
   {
    "id": "p-si13",
@@ -10093,7 +12453,27 @@
    "meridian": "SI",
    "number": 13,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87709,
+    "bary": [
+     0.490493,
+     0.245935,
+     0.263572
+    ],
+    "p": [
+     0.05762,
+     1.32157,
+     -0.00372
+    ],
+    "n": [
+     -0.3188,
+     0.2918,
+     -0.9018
+    ]
+   }
   },
   {
    "id": "p-si14",
@@ -10165,7 +12545,27 @@
    "meridian": "SI",
    "number": 14,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87934,
+    "bary": [
+     0.014086,
+     0.773164,
+     0.21275
+    ],
+    "p": [
+     0.06878,
+     1.34866,
+     0.00201
+    ],
+    "n": [
+     -0.2354,
+     0.4196,
+     -0.8766
+    ]
+   }
   },
   {
    "id": "p-si15",
@@ -10236,7 +12636,27 @@
    "meridian": "SI",
    "number": 15,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87726,
+    "bary": [
+     0.471816,
+     0.323066,
+     0.205118
+    ],
+    "p": [
+     0.04542,
+     1.36471,
+     0.01357
+    ],
+    "n": [
+     -0.126,
+     0.3911,
+     -0.9117
+    ]
+   }
   },
   {
    "id": "p-si16",
@@ -10307,7 +12727,27 @@
    "meridian": "SI",
    "number": 16,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 88062,
+    "bary": [
+     0.058917,
+     0.492253,
+     0.448831
+    ],
+    "p": [
+     0.07395,
+     1.40697,
+     0.05716
+    ],
+    "n": [
+     0.5724,
+     0.771,
+     -0.2793
+    ]
+   }
   },
   {
    "id": "p-si17",
@@ -10322,21 +12762,21 @@
    "anchor": {
     "model": "body-male",
     "mesh": "skin",
-    "face": 92301,
+    "face": 75119,
     "bary": [
-     0.134077,
-     0.018815,
-     0.847108
+     0.349046,
+     0.415486,
+     0.235468
     ],
     "p": [
-     0.02858,
-     1.43989,
-     0.09026
+     -0.05692,
+     1.4388,
+     0.0885
     ],
     "n": [
-     -0.8546,
-     0.2008,
-     0.4788
+     -0.9331,
+     -0.3595,
+     0.0091
     ]
    },
    "location_fa": "زیر زاویه‌ی فک، در فرورفتگی جلوی لبه‌ی قدامی عضله‌ی جناغی‌چنبری، پشت زاویه‌ی فک",
@@ -10378,7 +12818,27 @@
    "meridian": "SI",
    "number": 17,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96085,
+    "bary": [
+     0.215029,
+     0.272193,
+     0.512778
+    ],
+    "p": [
+     0.05448,
+     1.43901,
+     0.08893
+    ],
+    "n": [
+     0.9176,
+     -0.3951,
+     -0.0444
+    ]
+   }
   },
   {
    "id": "p-si18",
@@ -10449,7 +12909,27 @@
    "meridian": "SI",
    "number": 18,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 100622,
+    "bary": [
+     0.206246,
+     0.641948,
+     0.151806
+    ],
+    "p": [
+     0.04348,
+     1.46068,
+     0.16992
+    ],
+    "n": [
+     -0.5234,
+     0.2625,
+     -0.8107
+    ]
+   }
   },
   {
    "id": "p-si19",
@@ -10520,7 +13000,27 @@
    "meridian": "SI",
    "number": 19,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96684,
+    "bary": [
+     0.410215,
+     0.539675,
+     0.05011
+    ],
+    "p": [
+     0.07616,
+     1.49699,
+     0.09495
+    ],
+    "n": [
+     0.9638,
+     -0.0082,
+     0.2663
+    ]
+   }
   },
   {
    "id": "p-bl1",
@@ -10591,7 +13091,27 @@
    "meridian": "BL",
    "number": 1,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 102881,
+    "bary": [
+     0.023009,
+     0.050775,
+     0.926216
+    ],
+    "p": [
+     0.01448,
+     1.52668,
+     0.18745
+    ],
+    "n": [
+     -0.2083,
+     0.4121,
+     -0.887
+    ]
+   }
   },
   {
    "id": "p-bl2",
@@ -10663,7 +13183,27 @@
    "meridian": "BL",
    "number": 2,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107212,
+    "bary": [
+     0.451737,
+     0.203666,
+     0.344597
+    ],
+    "p": [
+     0.01648,
+     1.54068,
+     0.19057
+    ],
+    "n": [
+     -0.1085,
+     0.064,
+     -0.992
+    ]
+   }
   },
   {
    "id": "p-bl3",
@@ -10735,7 +13275,27 @@
    "meridian": "BL",
    "number": 3,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 108011,
+    "bary": [
+     0.188896,
+     0.747634,
+     0.06347
+    ],
+    "p": [
+     0.01989,
+     1.62245,
+     0.139
+    ],
+    "n": [
+     0.2325,
+     0.8785,
+     0.4172
+    ]
+   }
   },
   {
    "id": "p-bl4",
@@ -10805,7 +13365,27 @@
    "meridian": "BL",
    "number": 4,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107982,
+    "bary": [
+     0.109795,
+     0.436285,
+     0.45392
+    ],
+    "p": [
+     0.0404,
+     1.61599,
+     0.13162
+    ],
+    "n": [
+     0.4995,
+     0.7718,
+     0.3935
+    ]
+   }
   },
   {
    "id": "p-bl5",
@@ -10875,7 +13455,27 @@
    "meridian": "BL",
    "number": 5,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107983,
+    "bary": [
+     0.207354,
+     0.317163,
+     0.475483
+    ],
+    "p": [
+     0.04097,
+     1.62057,
+     0.12031
+    ],
+    "n": [
+     0.4984,
+     0.8057,
+     0.32
+    ]
+   }
   },
   {
    "id": "p-bl6",
@@ -10945,7 +13545,27 @@
    "meridian": "BL",
    "number": 6,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 95892,
+    "bary": [
+     0.461187,
+     0.211843,
+     0.32697
+    ],
+    "p": [
+     0.04263,
+     1.62721,
+     0.08458
+    ],
+    "n": [
+     0.522,
+     0.8507,
+     0.0626
+    ]
+   }
   },
   {
    "id": "p-bl7",
@@ -11015,7 +13635,27 @@
    "meridian": "BL",
    "number": 7,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 95870,
+    "bary": [
+     0.387698,
+     0.287829,
+     0.324474
+    ],
+    "p": [
+     0.04226,
+     1.62525,
+     0.04763
+    ],
+    "n": [
+     0.4949,
+     0.8557,
+     -0.1511
+    ]
+   }
   },
   {
    "id": "p-bl8",
@@ -11085,7 +13725,27 @@
    "meridian": "BL",
    "number": 8,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 95630,
+    "bary": [
+     0.177805,
+     0.456995,
+     0.3652
+    ],
+    "p": [
+     0.04147,
+     1.6101,
+     0.01296
+    ],
+    "n": [
+     0.5608,
+     0.5845,
+     -0.5864
+    ]
+   }
   },
   {
    "id": "p-bl9",
@@ -11156,7 +13816,27 @@
    "meridian": "BL",
    "number": 9,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 92071,
+    "bary": [
+     0.144095,
+     0.038092,
+     0.817813
+    ],
+    "p": [
+     0.03481,
+     1.51566,
+     -0.01039
+    ],
+    "n": [
+     0.5258,
+     -0.2033,
+     -0.8259
+    ]
+   }
   },
   {
    "id": "p-bl10",
@@ -11227,7 +13907,27 @@
    "meridian": "BL",
    "number": 10,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 91937,
+    "bary": [
+     0.769479,
+     0.131384,
+     0.099136
+    ],
+    "p": [
+     0.03585,
+     1.47469,
+     0.0212
+    ],
+    "n": [
+     0.3664,
+     -0.7683,
+     -0.5249
+    ]
+   }
   },
   {
    "id": "p-bl11",
@@ -11300,7 +14000,27 @@
    "meridian": "BL",
    "number": 11,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87723,
+    "bary": [
+     0.820052,
+     0.042373,
+     0.137575
+    ],
+    "p": [
+     0.03402,
+     1.34866,
+     0.00992
+    ],
+    "n": [
+     -0.1624,
+     0.2617,
+     -0.9514
+    ]
+   }
   },
   {
    "id": "p-bl12",
@@ -11373,7 +14093,27 @@
    "meridian": "BL",
    "number": 12,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87668,
+    "bary": [
+     0.196475,
+     0.155255,
+     0.64827
+    ],
+    "p": [
+     0.03387,
+     1.32822,
+     0.0048
+    ],
+    "n": [
+     -0.2144,
+     0.2216,
+     -0.9513
+    ]
+   }
   },
   {
    "id": "p-bl13",
@@ -11446,7 +14186,27 @@
    "meridian": "BL",
    "number": 13,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87496,
+    "bary": [
+     0.219621,
+     0.440141,
+     0.340238
+    ],
+    "p": [
+     0.03396,
+     1.30223,
+     -0.00139
+    ],
+    "n": [
+     -0.2616,
+     0.2449,
+     -0.9336
+    ]
+   }
   },
   {
    "id": "p-bl14",
@@ -11518,7 +14278,27 @@
    "meridian": "BL",
    "number": 14,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87470,
+    "bary": [
+     0.443544,
+     0.402333,
+     0.154123
+    ],
+    "p": [
+     0.03409,
+     1.27774,
+     -0.006
+    ],
+    "n": [
+     -0.342,
+     0.134,
+     -0.9301
+    ]
+   }
   },
   {
    "id": "p-bl15",
@@ -11590,7 +14370,27 @@
    "meridian": "BL",
    "number": 15,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87391,
+    "bary": [
+     0.196622,
+     0.63068,
+     0.172698
+    ],
+    "p": [
+     0.03421,
+     1.23977,
+     -0.00832
+    ],
+    "n": [
+     -0.2415,
+     -0.0017,
+     -0.9704
+    ]
+   }
   },
   {
    "id": "p-bl16",
@@ -11662,7 +14462,27 @@
    "meridian": "BL",
    "number": 16,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87369,
+    "bary": [
+     0.126835,
+     0.181498,
+     0.691667
+    ],
+    "p": [
+     0.03422,
+     1.20938,
+     -0.00796
+    ],
+    "n": [
+     -0.1779,
+     -0.0221,
+     -0.9838
+    ]
+   }
   },
   {
    "id": "p-bl17",
@@ -11734,7 +14554,27 @@
    "meridian": "BL",
    "number": 17,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62832,
+    "bary": [
+     0.046659,
+     0.087243,
+     0.866098
+    ],
+    "p": [
+     0.03428,
+     1.1793,
+     -0.00644
+    ],
+    "n": [
+     -0.2112,
+     -0.0714,
+     -0.9748
+    ]
+   }
   },
   {
    "id": "p-bl18",
@@ -11806,7 +14646,27 @@
    "meridian": "BL",
    "number": 18,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62747,
+    "bary": [
+     0.469239,
+     0.111185,
+     0.419576
+    ],
+    "p": [
+     0.03443,
+     1.12663,
+     -0.00024
+    ],
+    "n": [
+     -0.2319,
+     -0.1591,
+     -0.9596
+    ]
+   }
   },
   {
    "id": "p-bl19",
@@ -11878,7 +14738,27 @@
    "meridian": "BL",
    "number": 19,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62428,
+    "bary": [
+     0.403279,
+     0.251118,
+     0.345603
+    ],
+    "p": [
+     0.03451,
+     1.09977,
+     0.00494
+    ],
+    "n": [
+     -0.192,
+     -0.2182,
+     -0.9568
+    ]
+   }
   },
   {
    "id": "p-bl20",
@@ -11950,7 +14830,27 @@
    "meridian": "BL",
    "number": 20,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62413,
+    "bary": [
+     0.610475,
+     0.098328,
+     0.291197
+    ],
+    "p": [
+     0.0347,
+     1.07572,
+     0.01012
+    ],
+    "n": [
+     -0.0919,
+     -0.2029,
+     -0.9749
+    ]
+   }
   },
   {
    "id": "p-bl21",
@@ -12022,7 +14922,27 @@
    "meridian": "BL",
    "number": 21,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62408,
+    "bary": [
+     0.608238,
+     0.359655,
+     0.032107
+    ],
+    "p": [
+     0.03476,
+     1.04996,
+     0.01611
+    ],
+    "n": [
+     -0.0183,
+     -0.2323,
+     -0.9725
+    ]
+   }
   },
   {
    "id": "p-bl22",
@@ -12093,7 +15013,27 @@
    "meridian": "BL",
    "number": 22,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62296,
+    "bary": [
+     0.51149,
+     0.076509,
+     0.412001
+    ],
+    "p": [
+     0.03458,
+     1.0152,
+     0.02512
+    ],
+    "n": [
+     0.0052,
+     -0.2436,
+     -0.9699
+    ]
+   }
   },
   {
    "id": "p-bl23",
@@ -12164,7 +15104,27 @@
    "meridian": "BL",
    "number": 23,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59292,
+    "bary": [
+     0.416705,
+     0.328468,
+     0.254827
+    ],
+    "p": [
+     0.03424,
+     0.99232,
+     0.03022
+    ],
+    "n": [
+     0.0046,
+     -0.19,
+     -0.9818
+    ]
+   }
   },
   {
    "id": "p-bl24",
@@ -12235,7 +15195,27 @@
    "meridian": "BL",
    "number": 24,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59260,
+    "bary": [
+     0.478255,
+     0.14555,
+     0.376195
+    ],
+    "p": [
+     0.0339,
+     0.96769,
+     0.0334
+    ],
+    "n": [
+     0.011,
+     -0.0522,
+     -0.9986
+    ]
+   }
   },
   {
    "id": "p-bl25",
@@ -12306,7 +15286,27 @@
    "meridian": "BL",
    "number": 25,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59256,
+    "bary": [
+     0.015278,
+     0.640821,
+     0.343901
+    ],
+    "p": [
+     0.0339,
+     0.94719,
+     0.03328
+    ],
+    "n": [
+     -0.0067,
+     0.0817,
+     -0.9966
+    ]
+   }
   },
   {
    "id": "p-bl26",
@@ -12377,7 +15377,27 @@
    "meridian": "BL",
    "number": 26,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59188,
+    "bary": [
+     0.505624,
+     0.001154,
+     0.493222
+    ],
+    "p": [
+     0.03361,
+     0.92277,
+     0.02997
+    ],
+    "n": [
+     0.0619,
+     0.2263,
+     -0.9721
+    ]
+   }
   },
   {
    "id": "p-bl27",
@@ -12448,7 +15468,27 @@
    "meridian": "BL",
    "number": 27,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59180,
+    "bary": [
+     0.933476,
+     0.005501,
+     0.061023
+    ],
+    "p": [
+     0.03383,
+     0.9041,
+     0.02519
+    ],
+    "n": [
+     0.0772,
+     0.2927,
+     -0.9531
+    ]
+   }
   },
   {
    "id": "p-bl28",
@@ -12519,7 +15559,27 @@
    "meridian": "BL",
    "number": 28,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 58990,
+    "bary": [
+     0.623595,
+     0.009189,
+     0.367215
+    ],
+    "p": [
+     0.03418,
+     0.87956,
+     0.01777
+    ],
+    "n": [
+     0.0587,
+     0.2853,
+     -0.9566
+    ]
+   }
   },
   {
    "id": "p-bl29",
@@ -12589,7 +15649,27 @@
    "meridian": "BL",
    "number": 29,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 58972,
+    "bary": [
+     0.283267,
+     0.170848,
+     0.545884
+    ],
+    "p": [
+     0.03449,
+     0.85502,
+     0.01117
+    ],
+    "n": [
+     0.1074,
+     0.2243,
+     -0.9686
+    ]
+   }
   },
   {
    "id": "p-bl30",
@@ -12660,7 +15740,27 @@
    "meridian": "BL",
    "number": 30,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 58938,
+    "bary": [
+     0.60047,
+     0.294352,
+     0.105178
+    ],
+    "p": [
+     0.03469,
+     0.83048,
+     0.00703
+    ],
+    "n": [
+     0.097,
+     0.1012,
+     -0.9901
+    ]
+   }
   },
   {
    "id": "p-bl31",
@@ -12731,7 +15831,27 @@
    "meridian": "BL",
    "number": 31,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59179,
+    "bary": [
+     0.599615,
+     0.258089,
+     0.142296
+    ],
+    "p": [
+     0.0169,
+     0.9041,
+     0.02585
+    ],
+    "n": [
+     -0.1117,
+     0.2346,
+     -0.9657
+    ]
+   }
   },
   {
    "id": "p-bl32",
@@ -12802,7 +15922,27 @@
    "meridian": "BL",
    "number": 32,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 58985,
+    "bary": [
+     0.412465,
+     0.566005,
+     0.021529
+    ],
+    "p": [
+     0.01478,
+     0.87956,
+     0.01949
+    ],
+    "n": [
+     -0.3368,
+     0.2732,
+     -0.9011
+    ]
+   }
   },
   {
    "id": "p-bl33",
@@ -12872,7 +16012,27 @@
    "meridian": "BL",
    "number": 33,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 58962,
+    "bary": [
+     0.3869,
+     0.113962,
+     0.499138
+    ],
+    "p": [
+     0.0126,
+     0.85502,
+     0.01394
+    ],
+    "n": [
+     -0.3876,
+     0.2665,
+     -0.8825
+    ]
+   }
   },
   {
    "id": "p-bl34",
@@ -12942,7 +16102,27 @@
    "meridian": "BL",
    "number": 34,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 58909,
+    "bary": [
+     0.445208,
+     0.307461,
+     0.24733
+    ],
+    "p": [
+     0.01036,
+     0.83048,
+     0.01011
+    ],
+    "n": [
+     -0.4421,
+     0.1069,
+     -0.8906
+    ]
+   }
   },
   {
    "id": "p-bl35",
@@ -13014,7 +16194,27 @@
    "meridian": "BL",
    "number": 35,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 37986,
+    "bary": [
+     0.118017,
+     0.319683,
+     0.5623
+    ],
+    "p": [
+     0.012,
+     0.74918,
+     0.02057
+    ],
+    "n": [
+     -0.5643,
+     -0.4369,
+     -0.7005
+    ]
+   }
   },
   {
    "id": "p-bl36",
@@ -13085,7 +16285,27 @@
    "meridian": "BL",
    "number": 36,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 38193,
+    "bary": [
+     0.430406,
+     0.349469,
+     0.220126
+    ],
+    "p": [
+     0.07986,
+     0.67392,
+     0.0104
+    ],
+    "n": [
+     0.1,
+     0.0719,
+     -0.9924
+    ]
+   }
   },
   {
    "id": "p-bl37",
@@ -13155,7 +16375,27 @@
    "meridian": "BL",
    "number": 37,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36806,
+    "bary": [
+     0.078891,
+     0.260958,
+     0.660151
+    ],
+    "p": [
+     0.09406,
+     0.55133,
+     0.01203
+    ],
+    "n": [
+     -0.0401,
+     -0.0954,
+     -0.9946
+    ]
+   }
   },
   {
    "id": "p-bl38",
@@ -13225,7 +16465,27 @@
    "meridian": "BL",
    "number": 38,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36289,
+    "bary": [
+     0.094469,
+     0.865042,
+     0.040489
+    ],
+    "p": [
+     0.14085,
+     0.41099,
+     0.02892
+    ],
+    "n": [
+     0.3443,
+     0.2207,
+     -0.9125
+    ]
+   }
   },
   {
    "id": "p-bl39",
@@ -13296,7 +16556,27 @@
    "meridian": "BL",
    "number": 39,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36199,
+    "bary": [
+     0.564214,
+     0.106377,
+     0.329409
+    ],
+    "p": [
+     0.14842,
+     0.39118,
+     0.0273
+    ],
+    "n": [
+     0.4864,
+     0.2764,
+     -0.8289
+    ]
+   }
   },
   {
    "id": "p-bl40",
@@ -13368,7 +16648,27 @@
    "meridian": "BL",
    "number": 40,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36153,
+    "bary": [
+     0.179461,
+     0.815069,
+     0.005471
+    ],
+    "p": [
+     0.11443,
+     0.3878,
+     0.02104
+    ],
+    "n": [
+     -0.2917,
+     0.1826,
+     -0.9389
+    ]
+   }
   },
   {
    "id": "p-bl41",
@@ -13440,7 +16740,27 @@
    "meridian": "BL",
    "number": 41,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87930,
+    "bary": [
+     0.269157,
+     0.344004,
+     0.386839
+    ],
+    "p": [
+     0.06871,
+     1.32822,
+     -0.00554
+    ],
+    "n": [
+     -0.319,
+     0.2767,
+     -0.9064
+    ]
+   }
   },
   {
    "id": "p-bl42",
@@ -13512,7 +16832,27 @@
    "meridian": "BL",
    "number": 42,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87617,
+    "bary": [
+     0.254994,
+     0.603625,
+     0.14138
+    ],
+    "p": [
+     0.06914,
+     1.30223,
+     -0.01432
+    ],
+    "n": [
+     -0.3173,
+     0.3005,
+     -0.8995
+    ]
+   }
   },
   {
    "id": "p-bl43",
@@ -13584,7 +16924,27 @@
    "meridian": "BL",
    "number": 43,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87602,
+    "bary": [
+     0.30729,
+     0.070657,
+     0.622053
+    ],
+    "p": [
+     0.06949,
+     1.27774,
+     -0.01996
+    ],
+    "n": [
+     -0.2319,
+     0.1121,
+     -0.9663
+    ]
+   }
   },
   {
    "id": "p-bl44",
@@ -13656,7 +17016,27 @@
    "meridian": "BL",
    "number": 44,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87539,
+    "bary": [
+     0.185035,
+     0.455861,
+     0.359104
+    ],
+    "p": [
+     0.06955,
+     1.23977,
+     -0.02028
+    ],
+    "n": [
+     -0.2821,
+     -0.0319,
+     -0.9589
+    ]
+   }
   },
   {
    "id": "p-bl45",
@@ -13728,7 +17108,27 @@
    "meridian": "BL",
    "number": 45,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87517,
+    "bary": [
+     0.153378,
+     0.742882,
+     0.10374
+    ],
+    "p": [
+     0.06935,
+     1.20938,
+     -0.01761
+    ],
+    "n": [
+     -0.2826,
+     -0.1254,
+     -0.951
+    ]
+   }
   },
   {
    "id": "p-bl46",
@@ -13800,7 +17200,27 @@
    "meridian": "BL",
    "number": 46,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62936,
+    "bary": [
+     0.770326,
+     0.024379,
+     0.205296
+    ],
+    "p": [
+     0.06912,
+     1.1793,
+     -0.01251
+    ],
+    "n": [
+     -0.1253,
+     -0.2196,
+     -0.9675
+    ]
+   }
   },
   {
    "id": "p-bl47",
@@ -13872,7 +17292,27 @@
    "meridian": "BL",
    "number": 47,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62867,
+    "bary": [
+     0.151943,
+     0.372239,
+     0.475818
+    ],
+    "p": [
+     0.06913,
+     1.12663,
+     -0.00315
+    ],
+    "n": [
+     0.1097,
+     -0.1991,
+     -0.9738
+    ]
+   }
   },
   {
    "id": "p-bl48",
@@ -13944,7 +17384,27 @@
    "meridian": "BL",
    "number": 48,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62663,
+    "bary": [
+     0.364357,
+     0.229255,
+     0.406388
+    ],
+    "p": [
+     0.06915,
+     1.09977,
+     0.00346
+    ],
+    "n": [
+     0.1574,
+     -0.2789,
+     -0.9473
+    ]
+   }
   },
   {
    "id": "p-bl49",
@@ -14015,7 +17475,27 @@
    "meridian": "BL",
    "number": 49,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62640,
+    "bary": [
+     0.389743,
+     0.023509,
+     0.586748
+    ],
+    "p": [
+     0.06931,
+     1.07572,
+     0.01103
+    ],
+    "n": [
+     0.1812,
+     -0.3127,
+     -0.9324
+    ]
+   }
   },
   {
    "id": "p-bl50",
@@ -14087,7 +17567,27 @@
    "meridian": "BL",
    "number": 50,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62633,
+    "bary": [
+     0.267458,
+     0.411237,
+     0.321304
+    ],
+    "p": [
+     0.06918,
+     1.04996,
+     0.0197
+    ],
+    "n": [
+     0.2199,
+     -0.304,
+     -0.9269
+    ]
+   }
   },
   {
    "id": "p-bl51",
@@ -14158,7 +17658,27 @@
    "meridian": "BL",
    "number": 51,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62374,
+    "bary": [
+     0.042345,
+     0.657838,
+     0.299817
+    ],
+    "p": [
+     0.06867,
+     1.0152,
+     0.03034
+    ],
+    "n": [
+     0.2706,
+     -0.2736,
+     -0.923
+    ]
+   }
   },
   {
    "id": "p-bl52",
@@ -14229,7 +17749,27 @@
    "meridian": "BL",
    "number": 52,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59344,
+    "bary": [
+     0.493029,
+     0.439798,
+     0.067174
+    ],
+    "p": [
+     0.06797,
+     0.99232,
+     0.03564
+    ],
+    "n": [
+     0.3083,
+     -0.2067,
+     -0.9286
+    ]
+   }
   },
   {
    "id": "p-bl53",
@@ -14300,7 +17840,27 @@
    "meridian": "BL",
    "number": 53,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59022,
+    "bary": [
+     0.266285,
+     0.630828,
+     0.102887
+    ],
+    "p": [
+     0.06779,
+     0.87956,
+     0.02378
+    ],
+    "n": [
+     0.294,
+     0.2233,
+     -0.9294
+    ]
+   }
   },
   {
    "id": "p-bl54",
@@ -14370,7 +17930,27 @@
    "meridian": "BL",
    "number": 54,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 58947,
+    "bary": [
+     0.206056,
+     0.729349,
+     0.064595
+    ],
+    "p": [
+     0.06858,
+     0.83048,
+     0.01545
+    ],
+    "n": [
+     0.4193,
+     0.1401,
+     -0.897
+    ]
+   }
   },
   {
    "id": "p-bl55",
@@ -14440,7 +18020,27 @@
    "meridian": "BL",
    "number": 55,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 20149,
+    "bary": [
+     0.793373,
+     0.063929,
+     0.142698
+    ],
+    "p": [
+     0.09916,
+     0.34185,
+     0.02185
+    ],
+    "n": [
+     -0.6934,
+     0.1055,
+     -0.7128
+    ]
+   }
   },
   {
    "id": "p-bl56",
@@ -14510,7 +18110,27 @@
    "meridian": "BL",
    "number": 56,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 20053,
+    "bary": [
+     0.099863,
+     0.407686,
+     0.492451
+    ],
+    "p": [
+     0.10293,
+     0.2653,
+     0.01255
+    ],
+    "n": [
+     -0.8052,
+     -0.0399,
+     -0.5916
+    ]
+   }
   },
   {
    "id": "p-bl57",
@@ -14581,7 +18201,27 @@
    "meridian": "BL",
    "number": 57,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 19685,
+    "bary": [
+     0.298953,
+     0.207654,
+     0.493393
+    ],
+    "p": [
+     0.11467,
+     0.18926,
+     0.01718
+    ],
+    "n": [
+     -0.6368,
+     -0.2582,
+     -0.7265
+    ]
+   }
   },
   {
    "id": "p-bl58",
@@ -14652,7 +18292,27 @@
    "meridian": "BL",
    "number": 58,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 19881,
+    "bary": [
+     0.057391,
+     0.432703,
+     0.509906
+    ],
+    "p": [
+     0.15008,
+     0.16752,
+     0.0072
+    ],
+    "n": [
+     -0.1117,
+     -0.2442,
+     -0.9633
+    ]
+   }
   },
   {
    "id": "p-bl59",
@@ -14767,7 +18427,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12157,
+    "bary": [
+     0.031283,
+     0.613651,
+     0.355065
+    ],
+    "p": [
+     0.16827,
+     0.06605,
+     0.02895
+    ],
+    "n": [
+     0.3347,
+     -0.1361,
+     -0.9325
+    ]
+   }
   },
   {
    "id": "p-bl60",
@@ -14882,7 +18562,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 11625,
+    "bary": [
+     0.349853,
+     0.639981,
+     0.010166
+    ],
+    "p": [
+     0.18701,
+     -0.01617,
+     0.04826
+    ],
+    "n": [
+     0.6418,
+     -0.1254,
+     -0.7566
+    ]
+   }
   },
   {
    "id": "p-bl61",
@@ -14996,7 +18696,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 10837,
+    "bary": [
+     0.538833,
+     0.376936,
+     0.084231
+    ],
+    "p": [
+     0.17886,
+     -0.04162,
+     0.03637
+    ],
+    "n": [
+     0.6697,
+     0.1095,
+     -0.7345
+    ]
+   }
   },
   {
    "id": "p-bl62",
@@ -15112,7 +18832,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 10897,
+    "bary": [
+     0.482767,
+     0.295915,
+     0.221319
+    ],
+    "p": [
+     0.19882,
+     -0.0358,
+     0.06319
+    ],
+    "n": [
+     0.8455,
+     0.0464,
+     -0.532
+    ]
+   }
   },
   {
    "id": "p-bl63",
@@ -15227,7 +18967,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 11351,
+    "bary": [
+     0.143791,
+     0.624959,
+     0.231249
+    ],
+    "p": [
+     0.21037,
+     -0.03905,
+     0.08119
+    ],
+    "n": [
+     0.8459,
+     0.1216,
+     -0.5192
+    ]
+   }
   },
   {
    "id": "p-bl64",
@@ -15342,7 +19102,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 11237,
+    "bary": [
+     0.11697,
+     0.345947,
+     0.537083
+    ],
+    "p": [
+     0.22132,
+     -0.04585,
+     0.09635
+    ],
+    "n": [
+     0.8298,
+     0.1449,
+     -0.5389
+    ]
+   }
   },
   {
    "id": "p-bl65",
@@ -15457,7 +19237,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 13286,
+    "bary": [
+     0.075431,
+     0.842407,
+     0.082163
+    ],
+    "p": [
+     0.24758,
+     -0.05663,
+     0.14216
+    ],
+    "n": [
+     0.9291,
+     0.1872,
+     -0.3191
+    ]
+   }
   },
   {
    "id": "p-bl66",
@@ -15572,7 +19372,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 13299,
+    "bary": [
+     0.010948,
+     0.442203,
+     0.54685
+    ],
+    "p": [
+     0.25177,
+     -0.05805,
+     0.15149
+    ],
+    "n": [
+     0.8186,
+     0.2325,
+     -0.5252
+    ]
+   }
   },
   {
    "id": "p-bl67",
@@ -15687,7 +19507,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 14880,
+    "bary": [
+     0.791623,
+     0,
+     0.208377
+    ],
+    "p": [
+     0.26917,
+     -0.0589,
+     0.17893
+    ],
+    "n": [
+     -0.3702,
+     -0.8329,
+     0.4113
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -15803,7 +19643,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12606,
+    "bary": [
+     0.204765,
+     0.188217,
+     0.607018
+    ],
+    "p": [
+     0.20365,
+     -0.06792,
+     0.13574
+    ],
+    "n": [
+     -0.2003,
+     -0.9542,
+     -0.2224
+    ]
+   }
   },
   {
    "id": "p-ki2",
@@ -15918,7 +19778,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 11144,
+    "bary": [
+     0.885593,
+     0.114407,
+     0
+    ],
+    "p": [
+     0.1598,
+     -0.03046,
+     0.10872
+    ],
+    "n": [
+     -0.917,
+     -0.008,
+     0.3988
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -16034,7 +19914,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 11511,
+    "bary": [
+     0.514077,
+     0,
+     0.485923
+    ],
+    "p": [
+     0.14744,
+     -0.0089,
+     0.05635
+    ],
+    "n": [
+     0.9866,
+     -0.1383,
+     0.0869
+    ]
+   }
   },
   {
    "id": "p-ki4",
@@ -16149,7 +20049,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 10643,
+    "bary": [
+     0.586416,
+     0.298875,
+     0.114709
+    ],
+    "p": [
+     0.14539,
+     -0.02343,
+     0.05346
+    ],
+    "n": [
+     0.9746,
+     -0.2182,
+     -0.051
+    ]
+   }
   },
   {
    "id": "p-ki5",
@@ -16264,7 +20184,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 10634,
+    "bary": [
+     0.066856,
+     0.390257,
+     0.542887
+    ],
+    "p": [
+     0.14398,
+     -0.03539,
+     0.05745
+    ],
+    "n": [
+     0.9797,
+     -0.0504,
+     -0.1938
+    ]
+   }
   },
   {
    "id": "p-ki6",
@@ -16379,7 +20319,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 10652,
+    "bary": [
+     0.190703,
+     0.59007,
+     0.219227
+    ],
+    "p": [
+     0.14769,
+     -0.03005,
+     0.07265
+    ],
+    "n": [
+     0.974,
+     -0.0056,
+     -0.2263
+    ]
+   }
   },
   {
    "id": "p-ki7",
@@ -16494,7 +20454,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12083,
+    "bary": [
+     0.205811,
+     0.372911,
+     0.421278
+    ],
+    "p": [
+     0.14427,
+     0.03734,
+     0.05951
+    ],
+    "n": [
+     -0.9841,
+     -0.1775,
+     0.0079
+    ]
+   }
   },
   {
    "id": "p-ki8",
@@ -16608,7 +20588,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12180,
+    "bary": [
+     0.245397,
+     0.291793,
+     0.462811
+    ],
+    "p": [
+     0.14539,
+     0.03716,
+     0.07225
+    ],
+    "n": [
+     -0.9733,
+     -0.1541,
+     0.1703
+    ]
+   }
   },
   {
    "id": "p-ki9",
@@ -16679,7 +20679,27 @@
    "meridian": "KI",
    "number": 9,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12367,
+    "bary": [
+     0.758478,
+     0.19927,
+     0.042252
+    ],
+    "p": [
+     0.12199,
+     0.11269,
+     0.05302
+    ],
+    "n": [
+     -0.9093,
+     -0.3374,
+     -0.2436
+    ]
+   }
   },
   {
    "id": "p-ki10",
@@ -16750,7 +20770,27 @@
    "meridian": "KI",
    "number": 10,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36005,
+    "bary": [
+     0.926916,
+     0.027329,
+     0.045756
+    ],
+    "p": [
+     0.07904,
+     0.38336,
+     0.04122
+    ],
+    "n": [
+     -0.628,
+     -0.1277,
+     -0.7677
+    ]
+   }
   },
   {
    "id": "p-ki11",
@@ -16820,7 +20860,27 @@
    "meridian": "KI",
    "number": 11,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59627,
+    "bary": [
+     0.147752,
+     0.488257,
+     0.363991
+    ],
+    "p": [
+     0.00993,
+     0.80639,
+     0.22565
+    ],
+    "n": [
+     0.0219,
+     -0.1804,
+     0.9833
+    ]
+   }
   },
   {
    "id": "p-ki12",
@@ -16891,7 +20951,27 @@
    "meridian": "KI",
    "number": 12,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59687,
+    "bary": [
+     0.219712,
+     0.009105,
+     0.771182
+    ],
+    "p": [
+     0.00994,
+     0.84066,
+     0.22896
+    ],
+    "n": [
+     0.0065,
+     -0.0294,
+     0.9995
+    ]
+   }
   },
   {
    "id": "p-ki13",
@@ -16962,7 +21042,27 @@
    "meridian": "KI",
    "number": 13,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59694,
+    "bary": [
+     0.688481,
+     0.303996,
+     0.007523
+    ],
+    "p": [
+     0.00994,
+     0.87492,
+     0.22879
+    ],
+    "n": [
+     0.0687,
+     0.0245,
+     0.9973
+    ]
+   }
   },
   {
    "id": "p-ki14",
@@ -17033,7 +21133,27 @@
    "meridian": "KI",
    "number": 14,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59886,
+    "bary": [
+     0.059978,
+     0.880582,
+     0.05944
+    ],
+    "p": [
+     0.00994,
+     0.90919,
+     0.22859
+    ],
+    "n": [
+     0.0451,
+     0.0024,
+     0.999
+    ]
+   }
   },
   {
    "id": "p-ki15",
@@ -17104,7 +21224,27 @@
    "meridian": "KI",
    "number": 15,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59950,
+    "bary": [
+     0.24358,
+     0.13537,
+     0.621051
+    ],
+    "p": [
+     0.00993,
+     0.94345,
+     0.22735
+    ],
+    "n": [
+     -0.039,
+     0.0969,
+     0.9945
+    ]
+   }
   },
   {
    "id": "p-ki16",
@@ -17175,7 +21315,27 @@
    "meridian": "KI",
    "number": 16,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60013,
+    "bary": [
+     0.239385,
+     0.21669,
+     0.543925
+    ],
+    "p": [
+     0.00986,
+     0.97771,
+     0.22168
+    ],
+    "n": [
+     -0.1923,
+     0.1992,
+     0.9609
+    ]
+   }
   },
   {
    "id": "p-ki17",
@@ -17246,7 +21406,27 @@
    "meridian": "KI",
    "number": 17,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63037,
+    "bary": [
+     0.172988,
+     0.714579,
+     0.112433
+    ],
+    "p": [
+     0.00984,
+     1.0282,
+     0.21739
+    ],
+    "n": [
+     -0.0724,
+     0.0145,
+     0.9973
+    ]
+   }
   },
   {
    "id": "p-ki18",
@@ -17317,7 +21497,27 @@
    "meridian": "KI",
    "number": 18,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63084,
+    "bary": [
+     0.055434,
+     0.075702,
+     0.868863
+    ],
+    "p": [
+     0.00986,
+     1.05344,
+     0.21735
+    ],
+    "n": [
+     -0.0394,
+     -0.011,
+     0.9992
+    ]
+   }
   },
   {
    "id": "p-ki19",
@@ -17387,7 +21587,27 @@
    "meridian": "KI",
    "number": 19,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63087,
+    "bary": [
+     0.046471,
+     0.880115,
+     0.073413
+    ],
+    "p": [
+     0.00988,
+     1.07868,
+     0.21748
+    ],
+    "n": [
+     -0.014,
+     0,
+     0.9999
+    ]
+   }
   },
   {
    "id": "p-ki20",
@@ -17457,7 +21677,27 @@
    "meridian": "KI",
    "number": 20,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63323,
+    "bary": [
+     0.077687,
+     0.571897,
+     0.350416
+    ],
+    "p": [
+     0.00992,
+     1.10392,
+     0.21659
+    ],
+    "n": [
+     0.0024,
+     0.0531,
+     0.9986
+    ]
+   }
   },
   {
    "id": "p-ki21",
@@ -17528,7 +21768,27 @@
    "meridian": "KI",
    "number": 21,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63340,
+    "bary": [
+     0.120677,
+     0.224861,
+     0.654462
+    ],
+    "p": [
+     0.00993,
+     1.12917,
+     0.21475
+    ],
+    "n": [
+     -0.0151,
+     0.0886,
+     0.996
+    ]
+   }
   },
   {
    "id": "p-ki22",
@@ -17599,7 +21859,27 @@
    "meridian": "KI",
    "number": 22,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63474,
+    "bary": [
+     0.167747,
+     0.128065,
+     0.704188
+    ],
+    "p": [
+     0.04723,
+     1.1822,
+     0.21657
+    ],
+    "n": [
+     -0.299,
+     0.0685,
+     0.9518
+    ]
+   }
   },
   {
    "id": "p-ki23",
@@ -17671,7 +21951,27 @@
    "meridian": "KI",
    "number": 23,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63476,
+    "bary": [
+     0.943664,
+     0.002876,
+     0.053459
+    ],
+    "p": [
+     0.04689,
+     1.21064,
+     0.2095
+    ],
+    "n": [
+     -0.2248,
+     0.3304,
+     0.9167
+    ]
+   }
   },
   {
    "id": "p-ki24",
@@ -17743,7 +22043,27 @@
    "meridian": "KI",
    "number": 24,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89379,
+    "bary": [
+     0.501846,
+     0.106868,
+     0.391285
+    ],
+    "p": [
+     0.04608,
+     1.2367,
+     0.19825
+    ],
+    "n": [
+     -0.0972,
+     0.418,
+     0.9032
+    ]
+   }
   },
   {
    "id": "p-ki25",
@@ -17814,7 +22134,27 @@
    "meridian": "KI",
    "number": 25,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89425,
+    "bary": [
+     0.725058,
+     0.241586,
+     0.033357
+    ],
+    "p": [
+     0.04492,
+     1.26533,
+     0.18279
+    ],
+    "n": [
+     -0.0098,
+     0.4918,
+     0.8707
+    ]
+   }
   },
   {
    "id": "p-ki26",
@@ -17885,7 +22225,27 @@
    "meridian": "KI",
    "number": 26,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89452,
+    "bary": [
+     0.087124,
+     0.353591,
+     0.559285
+    ],
+    "p": [
+     0.0435,
+     1.29316,
+     0.16612
+    ],
+    "n": [
+     0.0427,
+     0.5163,
+     0.8553
+    ]
+   }
   },
   {
    "id": "p-ki27",
@@ -17957,7 +22317,27 @@
    "meridian": "KI",
    "number": 27,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89467,
+    "bary": [
+     0.191614,
+     0.491431,
+     0.316955
+    ],
+    "p": [
+     0.04283,
+     1.30944,
+     0.15722
+    ],
+    "n": [
+     0.0409,
+     0.4545,
+     0.8898
+    ]
+   }
   },
   {
    "id": "p-pc1",
@@ -18028,7 +22408,27 @@
    "meridian": "PC",
    "number": 1,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 64313,
+    "bary": [
+     0.352422,
+     0.536007,
+     0.111571
+    ],
+    "p": [
+     0.11641,
+     1.20682,
+     0.20522
+    ],
+    "n": [
+     0.457,
+     0.1039,
+     0.8834
+    ]
+   }
   },
   {
    "id": "p-pc2",
@@ -18097,7 +22497,27 @@
    "meridian": "PC",
    "number": 2,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 91029,
+    "bary": [
+     0.271939,
+     0.646102,
+     0.081958
+    ],
+    "p": [
+     0.17524,
+     1.22523,
+     0.11668
+    ],
+    "n": [
+     -0.2968,
+     -0.2415,
+     0.9239
+    ]
+   }
   },
   {
    "id": "p-pc3",
@@ -18167,7 +22587,27 @@
    "meridian": "PC",
    "number": 3,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 65203,
+    "bary": [
+     0.057051,
+     0.01818,
+     0.924769
+    ],
+    "p": [
+     0.18093,
+     1.05342,
+     0.10367
+    ],
+    "n": [
+     -0.7362,
+     -0.0925,
+     0.6704
+    ]
+   }
   },
   {
    "id": "p-pc4",
@@ -18236,7 +22676,27 @@
    "meridian": "PC",
    "number": 4,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61885,
+    "bary": [
+     0.166703,
+     0.764697,
+     0.068599
+    ],
+    "p": [
+     0.2241,
+     0.91203,
+     0.12703
+    ],
+    "n": [
+     -0.1939,
+     0.0107,
+     0.981
+    ]
+   }
   },
   {
    "id": "p-pc5",
@@ -18349,7 +22809,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61479,
+    "bary": [
+     0.599731,
+     0.318936,
+     0.081333
+    ],
+    "p": [
+     0.23478,
+     0.87024,
+     0.12852
+    ],
+    "n": [
+     -0.3888,
+     -0.0872,
+     0.9172
+    ]
+   }
   },
   {
    "id": "p-pc6",
@@ -18464,7 +22944,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61448,
+    "bary": [
+     0.412855,
+     0.575627,
+     0.011518
+    ],
+    "p": [
+     0.24043,
+     0.84925,
+     0.1285
+    ],
+    "n": [
+     -0.3405,
+     -0.1095,
+     0.9338
+    ]
+   }
   },
   {
    "id": "p-pc7",
@@ -18577,7 +23077,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60910,
+    "bary": [
+     0.358491,
+     0.438432,
+     0.203077
+    ],
+    "p": [
+     0.25063,
+     0.80762,
+     0.13121
+    ],
+    "n": [
+     -0.3413,
+     0.0324,
+     0.9394
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -18694,7 +23214,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 47123,
+    "bary": [
+     0.420899,
+     0,
+     0.579101
+    ],
+    "p": [
+     0.26623,
+     0.74619,
+     0.15261
+    ],
+    "n": [
+     -0.0245,
+     0.4038,
+     0.9145
+    ]
+   }
   },
   {
    "id": "p-pc9",
@@ -18807,7 +23347,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 40192,
+    "bary": [
+     0,
+     0.295789,
+     0.704211
+    ],
+    "p": [
+     0.27657,
+     0.65522,
+     0.19656
+    ],
+    "n": [
+     0.2491,
+     0.3714,
+     -0.8944
+    ]
+   }
   },
   {
    "id": "p-te1",
@@ -18923,7 +23483,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 39103,
+    "bary": [
+     0.754975,
+     0.038096,
+     0.206929
+    ],
+    "p": [
+     0.24705,
+     0.66521,
+     0.18381
+    ],
+    "n": [
+     -0.0328,
+     -0.9245,
+     -0.3798
+    ]
+   }
   },
   {
    "id": "p-te2",
@@ -19038,7 +23618,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 42317,
+    "bary": [
+     0.312208,
+     0.112607,
+     0.575184
+    ],
+    "p": [
+     0.24222,
+     0.72628,
+     0.13245
+    ],
+    "n": [
+     -0.4741,
+     -0.4367,
+     -0.7645
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -19160,7 +23760,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 46193,
+    "bary": [
+     0.256319,
+     0.216792,
+     0.52689
+    ],
+    "p": [
+     0.24439,
+     0.74044,
+     0.12486
+    ],
+    "n": [
+     0.2581,
+     0.4819,
+     0.8374
+    ]
+   }
   },
   {
    "id": "p-te4",
@@ -19275,7 +23895,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60505,
+    "bary": [
+     0.154839,
+     0.112962,
+     0.732199
+    ],
+    "p": [
+     0.26011,
+     0.803,
+     0.09991
+    ],
+    "n": [
+     0.5017,
+     -0.2882,
+     -0.8156
+    ]
+   }
   },
   {
    "id": "p-te5",
@@ -19391,7 +24031,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61518,
+    "bary": [
+     0.316256,
+     0.169891,
+     0.513853
+    ],
+    "p": [
+     0.25743,
+     0.8437,
+     0.08561
+    ],
+    "n": [
+     0.598,
+     -0.1684,
+     -0.7836
+    ]
+   }
   },
   {
    "id": "p-te6",
@@ -19506,7 +24166,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61568,
+    "bary": [
+     0.415479,
+     0.170623,
+     0.413898
+    ],
+    "p": [
+     0.25441,
+     0.86384,
+     0.079
+    ],
+    "n": [
+     0.5274,
+     -0.1795,
+     -0.8305
+    ]
+   }
   },
   {
    "id": "p-te7",
@@ -19621,7 +24301,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61557,
+    "bary": [
+     0.532956,
+     0.22588,
+     0.241163
+    ],
+    "p": [
+     0.24345,
+     0.86104,
+     0.07575
+    ],
+    "n": [
+     0.117,
+     -0.2723,
+     -0.9551
+    ]
+   }
   },
   {
    "id": "p-te8",
@@ -19692,7 +24392,27 @@
    "meridian": "TE",
    "number": 8,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61804,
+    "bary": [
+     0.669748,
+     0.165237,
+     0.165015
+    ],
+    "p": [
+     0.25122,
+     0.88403,
+     0.07283
+    ],
+    "n": [
+     0.5085,
+     -0.1623,
+     -0.8456
+    ]
+   }
   },
   {
    "id": "p-te9",
@@ -19763,7 +24483,27 @@
    "meridian": "TE",
    "number": 9,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 61827,
+    "bary": [
+     0.056815,
+     0.191295,
+     0.751889
+    ],
+    "p": [
+     0.24083,
+     0.94488,
+     0.05638
+    ],
+    "n": [
+     0.4109,
+     -0.1677,
+     -0.8961
+    ]
+   }
   },
   {
    "id": "p-te10",
@@ -19834,7 +24574,27 @@
    "meridian": "TE",
    "number": 10,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 64909,
+    "bary": [
+     0.159004,
+     0.70541,
+     0.135585
+    ],
+    "p": [
+     0.21066,
+     1.07828,
+     0.03697
+    ],
+    "n": [
+     0.0966,
+     -0.1711,
+     -0.9805
+    ]
+   }
   },
   {
    "id": "p-te11",
@@ -19904,7 +24664,27 @@
    "meridian": "TE",
    "number": 11,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 65960,
+    "bary": [
+     0.640752,
+     0.294981,
+     0.064267
+    ],
+    "p": [
+     0.20823,
+     1.10412,
+     0.03069
+    ],
+    "n": [
+     0.3356,
+     -0.2163,
+     -0.9168
+    ]
+   }
   },
   {
    "id": "p-te12",
@@ -19974,7 +24754,27 @@
    "meridian": "TE",
    "number": 12,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 66100,
+    "bary": [
+     0.341539,
+     0.133868,
+     0.524593
+    ],
+    "p": [
+     0.20531,
+     1.1689,
+     0.02188
+    ],
+    "n": [
+     0.3365,
+     -0.0268,
+     -0.9413
+    ]
+   }
   },
   {
    "id": "p-te13",
@@ -20044,7 +24844,27 @@
    "meridian": "TE",
    "number": 13,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 88721,
+    "bary": [
+     0.569931,
+     0.259793,
+     0.170276
+    ],
+    "p": [
+     0.21,
+     1.23426,
+     0.02592
+    ],
+    "n": [
+     0.5944,
+     0.0506,
+     -0.8026
+    ]
+   }
   },
   {
    "id": "p-te14",
@@ -20114,7 +24934,27 @@
    "meridian": "TE",
    "number": 14,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 89251,
+    "bary": [
+     0.626045,
+     0.074763,
+     0.299192
+    ],
+    "p": [
+     0.21021,
+     1.34507,
+     0.04587
+    ],
+    "n": [
+     0.7616,
+     0.5085,
+     -0.4016
+    ]
+   }
   },
   {
    "id": "p-te15",
@@ -20184,7 +25024,27 @@
    "meridian": "TE",
    "number": 15,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 87939,
+    "bary": [
+     0.119671,
+     0.392901,
+     0.487428
+    ],
+    "p": [
+     0.06169,
+     1.34391,
+     0.00196
+    ],
+    "n": [
+     -0.2185,
+     0.334,
+     -0.9169
+    ]
+   }
   },
   {
    "id": "p-te16",
@@ -20199,21 +25059,21 @@
    "anchor": {
     "model": "body-male",
     "mesh": "skin",
-    "face": 71757,
+    "face": 71519,
     "bary": [
-     0.005257,
-     0.177656,
-     0.817087
+     0.275308,
+     0.408557,
+     0.316136
     ],
     "p": [
-     -0.04024,
-     1.44704,
-     0.0402
+     -0.06036,
+     1.44708,
+     0.07
     ],
     "n": [
-     -0.6339,
-     -0.0949,
-     -0.7676
+     -0.976,
+     -0.1943,
+     -0.0981
     ]
    },
    "location_fa": "پشت گردن، روی لبه‌ی خلفی جناغی‌چنبری هم‌سطح زاویه‌ی فک پایین SI17",
@@ -20255,7 +25115,27 @@
    "meridian": "TE",
    "number": 16,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 92639,
+    "bary": [
+     0.207654,
+     0.349373,
+     0.442973
+    ],
+    "p": [
+     0.05733,
+     1.44704,
+     0.07097
+    ],
+    "n": [
+     0.9681,
+     -0.2128,
+     -0.1321
+    ]
+   }
   },
   {
    "id": "p-te17",
@@ -20326,7 +25206,27 @@
    "meridian": "TE",
    "number": 17,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 92685,
+    "bary": [
+     0.242885,
+     0.600287,
+     0.156828
+    ],
+    "p": [
+     0.06668,
+     1.47383,
+     0.06706
+    ],
+    "n": [
+     0.9111,
+     -0.3761,
+     -0.1684
+    ]
+   }
   },
   {
    "id": "p-te18",
@@ -20396,7 +25296,27 @@
    "meridian": "TE",
    "number": 18,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 92913,
+    "bary": [
+     0,
+     0.217618,
+     0.782382
+    ],
+    "p": [
+     0.07065,
+     1.49049,
+     0.0568
+    ],
+    "n": [
+     0.9316,
+     -0.3155,
+     -0.1803
+    ]
+   }
   },
   {
    "id": "p-te19",
@@ -20466,7 +25386,27 @@
    "meridian": "TE",
    "number": 19,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 92988,
+    "bary": [
+     0.112999,
+     0.887001,
+     0
+    ],
+    "p": [
+     0.07552,
+     1.51004,
+     0.0543
+    ],
+    "n": [
+     0.9636,
+     -0.1649,
+     -0.2103
+    ]
+   }
   },
   {
    "id": "p-te20",
@@ -20537,7 +25477,27 @@
    "meridian": "TE",
    "number": 20,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 95744,
+    "bary": [
+     0.058398,
+     0.173543,
+     0.768058
+    ],
+    "p": [
+     0.07783,
+     1.53316,
+     0.07466
+    ],
+    "n": [
+     0.9993,
+     -0.0311,
+     0.0203
+    ]
+   }
   },
   {
    "id": "p-te21",
@@ -20607,7 +25567,27 @@
    "meridian": "TE",
    "number": 21,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96787,
+    "bary": [
+     0.067687,
+     0.563814,
+     0.368499
+    ],
+    "p": [
+     0.07657,
+     1.50793,
+     0.09398
+    ],
+    "n": [
+     0.9695,
+     -0.023,
+     0.2439
+    ]
+   }
   },
   {
    "id": "p-te22",
@@ -20678,7 +25658,27 @@
    "meridian": "TE",
    "number": 22,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96891,
+    "bary": [
+     0.067078,
+     0.38348,
+     0.549442
+    ],
+    "p": [
+     0.07524,
+     1.52408,
+     0.09965
+    ],
+    "n": [
+     0.9689,
+     0.0465,
+     0.2429
+    ]
+   }
   },
   {
    "id": "p-te23",
@@ -20749,7 +25749,27 @@
    "meridian": "TE",
    "number": 23,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107673,
+    "bary": [
+     0.730021,
+     0.26584,
+     0.004139
+    ],
+    "p": [
+     0.04748,
+     1.53868,
+     0.17939
+    ],
+    "n": [
+     -0.593,
+     -0.123,
+     -0.7958
+    ]
+   }
   },
   {
    "id": "p-gb1",
@@ -20820,7 +25840,27 @@
    "meridian": "GB",
    "number": 1,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 106801,
+    "bary": [
+     0.265548,
+     0.399348,
+     0.335103
+    ],
+    "p": [
+     0.04948,
+     1.52468,
+     0.17575
+    ],
+    "n": [
+     -0.3117,
+     0.7005,
+     -0.642
+    ]
+   }
   },
   {
    "id": "p-gb2",
@@ -20890,7 +25930,27 @@
    "meridian": "GB",
    "number": 2,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96645,
+    "bary": [
+     0.1466,
+     0.01588,
+     0.83752
+    ],
+    "p": [
+     0.07525,
+     1.48564,
+     0.09415
+    ],
+    "n": [
+     0.8912,
+     -0.1539,
+     0.4267
+    ]
+   }
   },
   {
    "id": "p-gb3",
@@ -20960,7 +26020,27 @@
    "meridian": "GB",
    "number": 3,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96903,
+    "bary": [
+     0.550035,
+     0.355551,
+     0.094414
+    ],
+    "p": [
+     0.07343,
+     1.51469,
+     0.1081
+    ],
+    "n": [
+     0.9759,
+     0.029,
+     0.2162
+    ]
+   }
   },
   {
    "id": "p-gb4",
@@ -21030,7 +26110,27 @@
    "meridian": "GB",
    "number": 4,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107987,
+    "bary": [
+     0.460748,
+     0.461339,
+     0.077913
+    ],
+    "p": [
+     0.05174,
+     1.61187,
+     0.1185
+    ],
+    "n": [
+     0.7084,
+     0.6426,
+     0.292
+    ]
+   }
   },
   {
    "id": "p-gb5",
@@ -21099,7 +26199,27 @@
    "meridian": "GB",
    "number": 5,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107985,
+    "bary": [
+     0.209159,
+     0.030494,
+     0.760347
+    ],
+    "p": [
+     0.05806,
+     1.60241,
+     0.12034
+    ],
+    "n": [
+     0.8044,
+     0.5045,
+     0.3139
+    ]
+   }
   },
   {
    "id": "p-gb6",
@@ -21168,7 +26288,27 @@
    "meridian": "GB",
    "number": 6,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107964,
+    "bary": [
+     0.055807,
+     0.656862,
+     0.287331
+    ],
+    "p": [
+     0.0627,
+     1.59242,
+     0.12045
+    ],
+    "n": [
+     0.8811,
+     0.3844,
+     0.2755
+    ]
+   }
   },
   {
    "id": "p-gb7",
@@ -21237,7 +26377,27 @@
    "meridian": "GB",
    "number": 7,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 96918,
+    "bary": [
+     0.284335,
+     0.703099,
+     0.012566
+    ],
+    "p": [
+     0.07398,
+     1.52778,
+     0.10387
+    ],
+    "n": [
+     0.9661,
+     0.0451,
+     0.2544
+    ]
+   }
   },
   {
    "id": "p-gb8",
@@ -21306,7 +26466,27 @@
    "meridian": "GB",
    "number": 8,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 95801,
+    "bary": [
+     0.074415,
+     0.122215,
+     0.80337
+    ],
+    "p": [
+     0.07442,
+     1.57412,
+     0.07466
+    ],
+    "n": [
+     0.9854,
+     0.1647,
+     0.0429
+    ]
+   }
   },
   {
    "id": "p-gb9",
@@ -21375,7 +26555,27 @@
    "meridian": "GB",
    "number": 9,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 95706,
+    "bary": [
+     0.258967,
+     0.41023,
+     0.330803
+    ],
+    "p": [
+     0.07305,
+     1.57945,
+     0.05849
+    ],
+    "n": [
+     0.9733,
+     0.2103,
+     -0.092
+    ]
+   }
   },
   {
    "id": "p-gb10",
@@ -21444,7 +26644,27 @@
    "meridian": "GB",
    "number": 10,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 93012,
+    "bary": [
+     0.170137,
+     0.752589,
+     0.077274
+    ],
+    "p": [
+     0.07565,
+     1.52195,
+     0.04758
+    ],
+    "n": [
+     0.9707,
+     -0.0973,
+     -0.2198
+    ]
+   }
   },
   {
    "id": "p-gb11",
@@ -21513,7 +26733,27 @@
    "meridian": "GB",
    "number": 11,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 92903,
+    "bary": [
+     0.207508,
+     0.397139,
+     0.395354
+    ],
+    "p": [
+     0.07112,
+     1.49611,
+     0.04988
+    ],
+    "n": [
+     0.9368,
+     -0.2942,
+     -0.1895
+    ]
+   }
   },
   {
    "id": "p-gb12",
@@ -21585,7 +26825,27 @@
    "meridian": "GB",
    "number": 12,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 92578,
+    "bary": [
+     0.023752,
+     0.769775,
+     0.206473
+    ],
+    "p": [
+     0.06487,
+     1.47754,
+     0.05213
+    ],
+    "n": [
+     0.9106,
+     -0.342,
+     -0.232
+    ]
+   }
   },
   {
    "id": "p-gb13",
@@ -21654,7 +26914,27 @@
    "meridian": "GB",
    "number": 13,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107939,
+    "bary": [
+     0.838216,
+     0.058341,
+     0.103443
+    ],
+    "p": [
+     0.06527,
+     1.59465,
+     0.10728
+    ],
+    "n": [
+     0.9265,
+     0.303,
+     0.223
+    ]
+   }
   },
   {
    "id": "p-gb14",
@@ -21724,7 +27004,27 @@
    "meridian": "GB",
    "number": 14,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107450,
+    "bary": [
+     0.247387,
+     0.267853,
+     0.48476
+    ],
+    "p": [
+     0.02948,
+     1.5697,
+     0.18186
+    ],
+    "n": [
+     -0.3628,
+     -0.3001,
+     -0.8822
+    ]
+   }
   },
   {
    "id": "p-gb15",
@@ -21793,7 +27093,27 @@
    "meridian": "GB",
    "number": 15,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107992,
+    "bary": [
+     0.131357,
+     0.612382,
+     0.256261
+    ],
+    "p": [
+     0.05539,
+     1.60635,
+     0.12063
+    ],
+    "n": [
+     0.805,
+     0.5295,
+     0.2675
+    ]
+   }
   },
   {
    "id": "p-gb16",
@@ -21861,7 +27181,27 @@
    "meridian": "GB",
    "number": 16,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 107954,
+    "bary": [
+     0.262482,
+     0.007031,
+     0.730487
+    ],
+    "p": [
+     0.05779,
+     1.61084,
+     0.10153
+    ],
+    "n": [
+     0.814,
+     0.5664,
+     0.1291
+    ]
+   }
   },
   {
    "id": "p-gb17",
@@ -21929,7 +27269,27 @@
    "meridian": "GB",
    "number": 17,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 95901,
+    "bary": [
+     0.503664,
+     0.304337,
+     0.191998
+    ],
+    "p": [
+     0.05951,
+     1.61165,
+     0.08324
+    ],
+    "n": [
+     0.8237,
+     0.5639,
+     0.0586
+    ]
+   }
   },
   {
    "id": "p-gb18",
@@ -21997,7 +27357,27 @@
    "meridian": "GB",
    "number": 18,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 95865,
+    "bary": [
+     0.435076,
+     0.038027,
+     0.526898
+    ],
+    "p": [
+     0.05841,
+     1.61205,
+     0.05536
+    ],
+    "n": [
+     0.7821,
+     0.6149,
+     -0.1006
+    ]
+   }
   },
   {
    "id": "p-gb19",
@@ -22066,7 +27446,27 @@
    "meridian": "GB",
    "number": 19,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 92156,
+    "bary": [
+     0.221162,
+     0.35607,
+     0.422768
+    ],
+    "p": [
+     0.05427,
+     1.52465,
+     0.00439
+    ],
+    "n": [
+     0.763,
+     -0.1503,
+     -0.6286
+    ]
+   }
   },
   {
    "id": "p-gb20",
@@ -22139,7 +27539,27 @@
    "meridian": "GB",
    "number": 20,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 92127,
+    "bary": [
+     0.057208,
+     0.21327,
+     0.729522
+    ],
+    "p": [
+     0.06165,
+     1.49646,
+     0.02693
+    ],
+    "n": [
+     0.7729,
+     -0.3544,
+     -0.5263
+    ]
+   }
   },
   {
    "id": "p-gb21",
@@ -22209,7 +27629,27 @@
    "meridian": "GB",
    "number": 21,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 88059,
+    "bary": [
+     0.57373,
+     0.099825,
+     0.326445
+    ],
+    "p": [
+     0.08331,
+     1.39498,
+     0.04161
+    ],
+    "n": [
+     0.2922,
+     0.8368,
+     -0.4631
+    ]
+   }
   },
   {
    "id": "p-gb22",
@@ -22278,7 +27718,27 @@
    "meridian": "GB",
    "number": 22,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 65887,
+    "bary": [
+     0.835288,
+     0.015938,
+     0.148774
+    ],
+    "p": [
+     0.15462,
+     1.17401,
+     0.09178
+    ],
+    "n": [
+     0.985,
+     0.1051,
+     -0.1371
+    ]
+   }
   },
   {
    "id": "p-gb23",
@@ -22347,7 +27807,27 @@
    "meridian": "GB",
    "number": 23,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 91075,
+    "bary": [
+     0.550468,
+     0.18456,
+     0.264972
+    ],
+    "p": [
+     0.15159,
+     1.21966,
+     0.12909
+    ],
+    "n": [
+     0.9922,
+     0.118,
+     -0.0411
+    ]
+   }
   },
   {
    "id": "p-gb24",
@@ -22416,7 +27896,27 @@
    "meridian": "GB",
    "number": 24,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63539,
+    "bary": [
+     0.265274,
+     0.631433,
+     0.103293
+    ],
+    "p": [
+     0.09268,
+     1.14368,
+     0.21037
+    ],
+    "n": [
+     0.3507,
+     -0.1139,
+     0.9295
+    ]
+   }
   },
   {
    "id": "p-gb25",
@@ -22485,7 +27985,27 @@
    "meridian": "GB",
    "number": 25,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 62498,
+    "bary": [
+     0.135405,
+     0.684583,
+     0.180012
+    ],
+    "p": [
+     0.09794,
+     1.00331,
+     0.0483
+    ],
+    "n": [
+     0.5861,
+     -0.2003,
+     -0.7851
+    ]
+   }
   },
   {
    "id": "p-gb26",
@@ -22554,7 +28074,27 @@
    "meridian": "GB",
    "number": 26,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 60203,
+    "bary": [
+     0.030208,
+     0.797128,
+     0.172664
+    ],
+    "p": [
+     0.13736,
+     0.97771,
+     0.15313
+    ],
+    "n": [
+     0.9908,
+     0.0762,
+     0.1122
+    ]
+   }
   },
   {
    "id": "p-gb27",
@@ -22623,7 +28163,27 @@
    "meridian": "GB",
    "number": 27,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59878,
+    "bary": [
+     0.097394,
+     0.206619,
+     0.695988
+    ],
+    "p": [
+     0.11928,
+     0.87492,
+     0.19451
+    ],
+    "n": [
+     0.6973,
+     0.0351,
+     0.7159
+    ]
+   }
   },
   {
    "id": "p-gb28",
@@ -22692,7 +28252,27 @@
    "meridian": "GB",
    "number": 28,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59881,
+    "bary": [
+     0.406775,
+     0.123229,
+     0.469996
+    ],
+    "p": [
+     0.11635,
+     0.86464,
+     0.198
+    ],
+    "n": [
+     0.6977,
+     0.0453,
+     0.7149
+    ]
+   }
   },
   {
    "id": "p-gb29",
@@ -22763,7 +28343,27 @@
    "meridian": "GB",
    "number": 29,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59815,
+    "bary": [
+     0.355456,
+     0.450376,
+     0.194168
+    ],
+    "p": [
+     0.13466,
+     0.8358,
+     0.11624
+    ],
+    "n": [
+     0.9607,
+     -0.0812,
+     -0.2655
+    ]
+   }
   },
   {
    "id": "p-gb30",
@@ -22832,7 +28432,27 @@
    "meridian": "GB",
    "number": 30,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59054,
+    "bary": [
+     0.123062,
+     0.141874,
+     0.735064
+    ],
+    "p": [
+     0.11396,
+     0.78364,
+     0.0601
+    ],
+    "n": [
+     0.9099,
+     0.0655,
+     -0.4097
+    ]
+   }
   },
   {
    "id": "p-gb31",
@@ -22901,7 +28521,27 @@
    "meridian": "GB",
    "number": 31,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 38865,
+    "bary": [
+     0.540559,
+     0.225109,
+     0.234332
+    ],
+    "p": [
+     0.16588,
+     0.57756,
+     0.07071
+    ],
+    "n": [
+     0.9453,
+     0.0392,
+     -0.3239
+    ]
+   }
   },
   {
    "id": "p-gb32",
@@ -22969,7 +28609,27 @@
    "meridian": "GB",
    "number": 32,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36954,
+    "bary": [
+     0.375054,
+     0.011769,
+     0.613177
+    ],
+    "p": [
+     0.1671,
+     0.53637,
+     0.07005
+    ],
+    "n": [
+     0.9337,
+     0.0143,
+     -0.3578
+    ]
+   }
   },
   {
    "id": "p-gb33",
@@ -23037,7 +28697,27 @@
    "meridian": "GB",
    "number": 33,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36331,
+    "bary": [
+     0.126266,
+     0.021535,
+     0.852198
+    ],
+    "p": [
+     0.1697,
+     0.41705,
+     0.06128
+    ],
+    "n": [
+     0.9244,
+     0.1094,
+     -0.3654
+    ]
+   }
   },
   {
    "id": "p-gb34",
@@ -23107,7 +28787,27 @@
    "meridian": "GB",
    "number": 34,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36262,
+    "bary": [
+     0.262721,
+     0.099977,
+     0.637303
+    ],
+    "p": [
+     0.17337,
+     0.37431,
+     0.07057
+    ],
+    "n": [
+     0.9758,
+     0.1403,
+     0.1677
+    ]
+   }
   },
   {
    "id": "p-gb35",
@@ -23176,7 +28876,27 @@
    "meridian": "GB",
    "number": 35,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 19900,
+    "bary": [
+     0.035942,
+     0.75189,
+     0.212168
+    ],
+    "p": [
+     0.19504,
+     0.17179,
+     0.0286
+    ],
+    "n": [
+     0.8448,
+     -0.1084,
+     -0.524
+    ]
+   }
   },
   {
    "id": "p-gb36",
@@ -23245,7 +28965,27 @@
    "meridian": "GB",
    "number": 36,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 19979,
+    "bary": [
+     0.068555,
+     0.181553,
+     0.749892
+    ],
+    "p": [
+     0.20182,
+     0.1719,
+     0.05489
+    ],
+    "n": [
+     0.9982,
+     -0.0514,
+     0.0311
+    ]
+   }
   },
   {
    "id": "p-gb37",
@@ -23314,7 +29054,27 @@
    "meridian": "GB",
    "number": 37,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12409,
+    "bary": [
+     0.468756,
+     0.1181,
+     0.413143
+    ],
+    "p": [
+     0.19847,
+     0.12005,
+     0.05688
+    ],
+    "n": [
+     0.9888,
+     -0.0751,
+     -0.1287
+    ]
+   }
   },
   {
    "id": "p-gb38",
@@ -23383,7 +29143,27 @@
    "meridian": "GB",
    "number": 38,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12411,
+    "bary": [
+     0.029142,
+     0.096322,
+     0.874536
+    ],
+    "p": [
+     0.19709,
+     0.09416,
+     0.05777
+    ],
+    "n": [
+     0.9911,
+     -0.0564,
+     -0.1208
+    ]
+   }
   },
   {
    "id": "p-gb39",
@@ -23498,7 +29278,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12172,
+    "bary": [
+     0.592262,
+     0.259682,
+     0.148056
+    ],
+    "p": [
+     0.19604,
+     0.06831,
+     0.05854
+    ],
+    "n": [
+     0.9757,
+     -0.0349,
+     -0.2164
+    ]
+   }
   },
   {
    "id": "p-gb40",
@@ -23611,7 +29411,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 11369,
+    "bary": [
+     0.098055,
+     0.25316,
+     0.648784
+    ],
+    "p": [
+     0.20615,
+     -0.02197,
+     0.07944
+    ],
+    "n": [
+     0.8943,
+     0.2724,
+     -0.3549
+    ]
+   }
   },
   {
    "id": "p-gb41",
@@ -23725,7 +29545,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 11438,
+    "bary": [
+     0.630508,
+     0.269832,
+     0.099659
+    ],
+    "p": [
+     0.2178,
+     -0.03159,
+     0.11707
+    ],
+    "n": [
+     0.7797,
+     0.6248,
+     -0.0418
+    ]
+   }
   },
   {
    "id": "p-gb42",
@@ -23838,7 +29678,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 13384,
+    "bary": [
+     0.514986,
+     0.184655,
+     0.300359
+    ],
+    "p": [
+     0.23419,
+     -0.0476,
+     0.14749
+    ],
+    "n": [
+     0.2579,
+     0.9501,
+     0.1755
+    ]
+   }
   },
   {
    "id": "p-gb43",
@@ -23951,7 +29811,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 13640,
+    "bary": [
+     0.007438,
+     0.775215,
+     0.217348
+    ],
+    "p": [
+     0.24273,
+     -0.05378,
+     0.16018
+    ],
+    "n": [
+     0.0895,
+     0.6831,
+     0.7249
+    ]
+   }
   },
   {
    "id": "p-gb44",
@@ -24065,7 +29945,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 18218,
+    "bary": [
+     0,
+     0.932219,
+     0.067781
+    ],
+    "p": [
+     0.26341,
+     -0.05735,
+     0.1973
+    ],
+    "n": [
+     -0.64,
+     -0.68,
+     0.3578
+    ]
+   }
   },
   {
    "id": "p-lr1",
@@ -24178,7 +30078,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 16368,
+    "bary": [
+     0,
+     0.307347,
+     0.692653
+    ],
+    "p": [
+     0.22116,
+     -0.05555,
+     0.22137
+    ],
+    "n": [
+     0.0725,
+     -0.9949,
+     -0.0697
+    ]
+   }
   },
   {
    "id": "p-lr2",
@@ -24292,7 +30212,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 15424,
+    "bary": [
+     0.148151,
+     0.450188,
+     0.401661
+    ],
+    "p": [
+     0.20829,
+     -0.05318,
+     0.18723
+    ],
+    "n": [
+     -0.0868,
+     0.6043,
+     0.792
+    ]
+   }
   },
   {
    "section": "tcm",
@@ -24417,7 +30357,27 @@
     }
    ],
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 13003,
+    "bary": [
+     0.446179,
+     0.335655,
+     0.218167
+    ],
+    "p": [
+     0.19676,
+     -0.0258,
+     0.1468
+    ],
+    "n": [
+     0.2537,
+     0.7739,
+     0.5802
+    ]
+   }
   },
   {
    "id": "p-lr4",
@@ -24530,7 +30490,27 @@
      ],
      "auto": true
     }
-   ]
+   ],
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 11753,
+    "bary": [
+     0.04759,
+     0.871392,
+     0.081018
+    ],
+    "p": [
+     0.14986,
+     -0.00787,
+     0.08828
+    ],
+    "n": [
+     -0.9543,
+     -0.0533,
+     0.2939
+    ]
+   }
   },
   {
    "id": "p-lr5",
@@ -24599,7 +30579,27 @@
    "meridian": "LR",
    "number": 5,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 12458,
+    "bary": [
+     0.192582,
+     0.685323,
+     0.122095
+    ],
+    "p": [
+     0.13527,
+     0.11318,
+     0.0926
+    ],
+    "n": [
+     -0.7251,
+     -0.1617,
+     0.6694
+    ]
+   }
   },
   {
    "id": "p-lr6",
@@ -24667,7 +30667,27 @@
    "meridian": "LR",
    "number": 6,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 19780,
+    "bary": [
+     0.004073,
+     0.674869,
+     0.321058
+    ],
+    "p": [
+     0.12822,
+     0.16407,
+     0.09542
+    ],
+    "n": [
+     -0.5377,
+     -0.114,
+     0.8354
+    ]
+   }
   },
   {
    "id": "p-lr7",
@@ -24735,7 +30755,27 @@
    "meridian": "LR",
    "number": 7,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 20433,
+    "bary": [
+     0.75888,
+     0.190421,
+     0.0507
+    ],
+    "p": [
+     0.0862,
+     0.31536,
+     0.06865
+    ],
+    "n": [
+     -0.8985,
+     -0.2371,
+     0.3694
+    ]
+   }
   },
   {
    "id": "p-lr8",
@@ -24804,7 +30844,27 @@
    "meridian": "LR",
    "number": 8,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36047,
+    "bary": [
+     0.428605,
+     0.368688,
+     0.202707
+    ],
+    "p": [
+     0.06131,
+     0.3869,
+     0.06372
+    ],
+    "n": [
+     -0.9113,
+     -0.3048,
+     -0.2768
+    ]
+   }
   },
   {
    "id": "p-lr9",
@@ -24873,7 +30933,27 @@
    "meridian": "LR",
    "number": 9,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 36992,
+    "bary": [
+     0.414571,
+     0.103239,
+     0.482191
+    ],
+    "p": [
+     0.03866,
+     0.48021,
+     0.1057
+    ],
+    "n": [
+     -0.8986,
+     -0.3129,
+     0.3077
+    ]
+   }
   },
   {
    "id": "p-lr10",
@@ -24942,7 +31022,27 @@
    "meridian": "LR",
    "number": 10,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 38485,
+    "bary": [
+     0.119922,
+     0.132022,
+     0.748056
+    ],
+    "p": [
+     0.03207,
+     0.70423,
+     0.1826
+    ],
+    "n": [
+     -0.5501,
+     -0.2591,
+     0.7939
+    ]
+   }
   },
   {
    "id": "p-lr11",
@@ -25010,7 +31110,27 @@
    "meridian": "LR",
    "number": 11,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 38509,
+    "bary": [
+     0.601492,
+     0.32845,
+     0.070058
+    ],
+    "p": [
+     0.03982,
+     0.72534,
+     0.19365
+    ],
+    "n": [
+     -0.3475,
+     -0.2464,
+     0.9047
+    ]
+   }
   },
   {
    "id": "p-lr12",
@@ -25079,7 +31199,27 @@
    "meridian": "LR",
    "number": 12,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 59681,
+    "bary": [
+     0.357795,
+     0.581246,
+     0.060959
+    ],
+    "p": [
+     0.05325,
+     0.81039,
+     0.21761
+    ],
+    "n": [
+     0.2109,
+     -0.178,
+     0.9612
+    ]
+   }
   },
   {
    "id": "p-lr13",
@@ -25148,7 +31288,27 @@
    "meridian": "LR",
    "number": 13,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 65060,
+    "bary": [
+     0.528429,
+     0.003475,
+     0.468096
+    ],
+    "p": [
+     0.13509,
+     1.00539,
+     0.12801
+    ],
+    "n": [
+     0.9983,
+     0.0452,
+     -0.037
+    ]
+   }
   },
   {
    "id": "p-lr14",
@@ -25219,7 +31379,27 @@
    "meridian": "LR",
    "number": 14,
    "bilateral": true,
-   "auto_placed": true
+   "auto_placed": true,
+   "anchor_l": {
+    "model": "body-male",
+    "mesh": "skin",
+    "face": 63520,
+    "bary": [
+     0.709694,
+     0.166162,
+     0.124144
+    ],
+    "p": [
+     0.09197,
+     1.13109,
+     0.20975
+    ],
+    "n": [
+     0.3099,
+     -0.0198,
+     0.9506
+    ]
+   }
   },
   {
    "id": "p-gv1",

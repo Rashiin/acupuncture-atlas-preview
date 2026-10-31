@@ -67,8 +67,12 @@ function apply(cfg) {
   }
 }
 
-fetch('./site.json', { cache: 'no-cache' })
-  .then((r) => (r.ok ? r.json() : {}))
+// تنظیمات ذخیره‌شده در پنل مدیریت (سند «site» در API اطلس) بر site.json همراه سایت مقدم است.
+// روی هاست، اطلس زیر app/ است؛ در محیط توسعه سایت زیر /site/ و API در /api/.
+const getJson = (url) => fetch(url, { cache: 'no-cache', headers: { Accept: 'application/json' } }).then((r) => (r.ok ? r.json() : Promise.reject(r.status)));
+getJson('app/api/doc/site')
+  .catch(() => getJson('../api/doc/site'))
+  .catch(() => getJson('./site.json'))
   .catch(() => ({}))
   .then(apply);
 
