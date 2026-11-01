@@ -45,10 +45,10 @@ svg.i { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-widt
 .icon-btn:hover { background: var(--raised); }
 
 /* ───── سربرگ ───── */
-.nav { position: sticky; top: 0; z-index: 10; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
+.nav { position: sticky; top: 0; z-index: 10; background: var(--bg); background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
 .nav-row { height: 66px; display: flex; align-items: center; gap: 20px; }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; text-decoration: none; font-size: 15px; }
-.brand-logo { width: 40px; height: 40px; border-radius: 11px; box-shadow: 0 4px 14px #083d3e30; }
+.brand-logo { width: 46px; height: 46px; object-fit: contain; }
 .brand-text { display: flex; flex-direction: column; line-height: 1.2; }
 .brand-text small { font-size: 11px; font-weight: 400; color: var(--muted); }
 .wordmark { font-size: 20px; font-weight: 800; letter-spacing: -.3px; unicode-bidi: isolate; }
@@ -73,7 +73,6 @@ svg.i { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-widt
 .nav .wordmark b { color: #fff; }
 .nav .wordmark i { color: #14b8a6; }
 .nav .brand-text small { color: #9fc9c3; font-size: 9px; letter-spacing: 2.2px; font-weight: 600; }
-.nav .brand-logo { box-shadow: 0 0 0 1px #ffffff1f; }
 .nav .links a { color: #b8d4d1; }
 .nav .links a:hover, .nav .links a[aria-current] { color: #fff; background: transparent; }
 .nav .links a[aria-current] { box-shadow: inset 0 -2px 0 #14b8a6; border-radius: 0; }
@@ -98,7 +97,7 @@ h1 { font-size: clamp(28px, 4.4vw, 48px); line-height: 1.4; margin: 0 0 16px; le
 .cta-ico svg.i { width: 16px; height: 16px; }
 .cta-row { display: flex; gap: 10px; flex-wrap: wrap; }
 .hero-art { position: relative; display: flex; justify-content: center; align-items: center; min-height: 420px; }
-.hero-art img { position: relative; width: 100%; max-width: 620px; height: auto; filter: drop-shadow(0 0 30px #14b8a640); -webkit-mask-image: linear-gradient(to bottom, #000 72%, transparent 98%); mask-image: linear-gradient(to bottom, #000 72%, transparent 98%); }
+.hero-art img { position: relative; width: 112%; max-width: 700px; height: auto; margin-inline-end: -6%; -webkit-mask-image: linear-gradient(to bottom, #000 72%, transparent 98%); mask-image: linear-gradient(to bottom, #000 72%, transparent 98%); }
 .hero-art .ring { position: absolute; width: 82%; aspect-ratio: 1; border-radius: 50%; border: 1px solid #14b8a64d; box-shadow: 0 0 80px #14b8a626 inset; }
 .hero-art .ring::after { content: ''; position: absolute; inset: 9%; border-radius: 50%; border: 1px dashed #d4af3733; }
 
