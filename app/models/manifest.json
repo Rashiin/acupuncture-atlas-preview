@@ -2,13 +2,13 @@
   "hand-r": {
     "id": "hand-r",
     "title_fa": "دست راست",
-    "file": "models/hand-r.glb?v=ccb49b9d06",
+    "file": "models/hand-r.glb?v=39aed5c116",
     "layers": [
       "skin",
       "muscle",
       "bone"
     ],
-    "size": 777328
+    "size": 777480
   },
   "ear-r": {
     "id": "ear-r",
@@ -22,37 +22,37 @@
   "foot-r": {
     "id": "foot-r",
     "title_fa": "پای راست",
-    "file": "models/foot-r.glb?v=3a9546bd41",
+    "file": "models/foot-r.glb?v=b08e1cd337",
     "layers": [
       "skin",
       "muscle",
       "tendon",
       "bone"
     ],
-    "size": 883796
+    "size": 884068
   },
   "foot-l": {
     "id": "foot-l",
     "title_fa": "پای چپ",
-    "file": "models/foot-l.glb?v=c2f2a4e565",
+    "file": "models/foot-l.glb?v=0e2749f65d",
     "layers": [
       "skin",
       "muscle",
       "tendon",
       "bone"
     ],
-    "size": 882856
+    "size": 882964
   },
   "hand-l": {
     "id": "hand-l",
     "title_fa": "دست چپ",
-    "file": "models/hand-l.glb?v=f51d9a3d3c",
+    "file": "models/hand-l.glb?v=b422c2123f",
     "layers": [
       "skin",
       "muscle",
       "bone"
     ],
-    "size": 776384
+    "size": 776568
   },
   "ear-l": {
     "id": "ear-l",
@@ -79,7 +79,7 @@
   "body-male": {
     "id": "body-male",
     "title_fa": "بدن کامل (مرد)",
-    "file": "models/body-male.glb?v=7e49a791a8",
+    "file": "models/body-male.glb?v=5df3fe333c",
     "layers": [
       "skin",
       "muscle",
@@ -87,6 +87,6 @@
       "bone",
       "organ"
     ],
-    "size": 7122356
+    "size": 7143128
   }
 }

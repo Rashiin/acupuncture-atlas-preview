@@ -69,7 +69,7 @@ svg.i { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-widt
 .menu-panel .btn { margin-top: 6px; }
 
 /* ───── بالای صفحه: سربرگ و بنر تیرهٔ یکپارچه، مثل طرح کارفرما ───── */
-.nav { background: #083d3e; border-bottom-color: #ffffff14; color: #eaf6f4; backdrop-filter: none; }
+.nav { background: #033237; border-bottom-color: #ffffff14; color: #eaf6f4; backdrop-filter: none; }
 .nav .wordmark b { color: #fff; }
 .nav .wordmark i { color: #14b8a6; }
 .nav .brand-text small { color: #9fc9c3; font-size: 9px; letter-spacing: 2.2px; font-weight: 600; }
@@ -83,9 +83,13 @@ svg.i { width: 20px; height: 20px; fill: none; stroke: currentColor; stroke-widt
 
 .hero {
   position: relative; padding: 56px 0 0; overflow: hidden; color: #eaf6f4;
-  background: radial-gradient(ellipse 50% 70% at 25% 40%, #14b8a633, transparent 70%), linear-gradient(160deg, #0a4a4a, #083d3e 45%, #062b2c);
+  /* همان رنگ زمینهٔ تصویر طرح کارفرما (دور بدن)، تا لبهٔ تصویر دیده نشود */
+  background: radial-gradient(ellipse 45% 70% at 28% 45%, #0b5a5a40, transparent 70%), linear-gradient(160deg, #033a3e, #022d31 50%, #01242a);
 }
-.hero-grid { position: relative; z-index: 1; display: grid; grid-template-columns: 1fr 1.05fr; gap: 30px; align-items: center; }
+/* مثل طرح کارفرما: متن سمت چپ، بدن سمت راست و بزرگ تا پایین بنر */
+.hero-grid { position: relative; z-index: 1; display: grid; grid-template-columns: 1.1fr 1fr; gap: 20px; align-items: end; }
+.hero-art { order: -1; }
+.hero-copy { align-self: center; padding-bottom: 40px; }
 .eyebrow { color: var(--gold); font-weight: 600; font-size: 14px; margin: 0 0 10px; letter-spacing: .3px; }
 h1 { font-size: clamp(28px, 4.4vw, 48px); line-height: 1.4; margin: 0 0 16px; letter-spacing: -0.5px; }
 .hero h1 { color: #fff; }
@@ -97,7 +101,7 @@ h1 { font-size: clamp(28px, 4.4vw, 48px); line-height: 1.4; margin: 0 0 16px; le
 .cta-ico svg.i { width: 16px; height: 16px; }
 .cta-row { display: flex; gap: 10px; flex-wrap: wrap; }
 .hero-art { position: relative; display: flex; justify-content: center; align-items: center; min-height: 420px; }
-.hero-art img { position: relative; width: 112%; max-width: 700px; height: auto; margin-inline-end: -6%; -webkit-mask-image: linear-gradient(to bottom, #000 72%, transparent 98%); mask-image: linear-gradient(to bottom, #000 72%, transparent 98%); }
+.hero-art img { position: relative; width: 100%; max-width: 620px; height: auto; margin-bottom: -10px; }
 .hero-art .ring { position: absolute; width: 82%; aspect-ratio: 1; border-radius: 50%; border: 1px solid #14b8a64d; box-shadow: 0 0 80px #14b8a626 inset; }
 .hero-art .ring::after { content: ''; position: absolute; inset: 9%; border-radius: 50%; border: 1px dashed #d4af3733; }
 
