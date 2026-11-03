@@ -188,6 +188,22 @@ h3 { font-size: 16px; margin: 0 0 6px; }
 .contact-card small { display: block; color: var(--muted); font-size: 13px; }
 .contact-card .ltr { direction: ltr; unicode-bidi: isolate; }
 
+/* ───── بخش‌های معرفی ───── */
+.points-grid { display: grid; grid-template-columns: 1fr 1.1fr; gap: 32px; align-items: center; }
+.big-checks { gap: 14px; }
+.big-checks li { font-size: 14.5px; color: var(--muted); }
+.big-checks li b { display: block; color: var(--text); font-size: 15px; }
+.layers { margin: 0; }
+.layer-imgs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; background: linear-gradient(160deg, #033a3e, #01242a); border-radius: 18px; padding: 18px 10px 0; }
+.layer-imgs img { width: 100%; height: auto; max-height: 340px; object-fit: contain; }
+.layers figcaption { color: var(--muted); font-size: 13px; margin-top: 10px; }
+.styles h3 { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.pill { font-size: 11px; font-weight: 500; border-radius: 20px; padding: 1px 9px; border: 1px solid var(--line); color: var(--muted); }
+.pill.ok { color: var(--accent); border-color: var(--accent); }
+.site-steps li { background: var(--panel); border: 1px solid var(--line); }
+.center-row { justify-content: center; margin-top: 26px; }
+.block#how .btn.primary { background: #14b8a6; border-color: #14b8a6; color: #fff; }
+
 /* ───── پایین صفحه ───── */
 .foot { border-top: 1px solid var(--line); padding: 36px 0 28px; }
 .foot-grid { display: flex; justify-content: space-between; gap: 30px; flex-wrap: wrap; }
@@ -205,6 +221,7 @@ h3 { font-size: 16px; margin: 0 0 6px; }
 .doc ul { padding-inline-start: 22px; }
 
 @media (max-width: 900px) {
+  .points-grid { grid-template-columns: 1fr; }
   .links, .nav-cta { display: none; }
   .menu { display: block; }
   .nav-actions { margin-inline-start: auto; }

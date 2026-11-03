@@ -91,3 +91,18 @@ document.querySelector('[data-theme-toggle]')?.addEventListener('click', () => {
 for (const a of document.querySelectorAll('.menu-panel a')) {
   a.addEventListener('click', () => a.closest('details')?.removeAttribute('open'));
 }
+
+// پیوند سربرگ همان بخشی را نشان می‌دهد که الان روی صفحه است.
+const navLinks = [...document.querySelectorAll('.links a[href^="#"]')];
+// «خانه» به #top (کل صفحه) می‌رود؛ برای دیدن، خود بنر بالای صفحه سنجیده می‌شود.
+const target = (a) => (a.getAttribute('href') === '#top' ? document.querySelector('.hero') : document.querySelector(a.getAttribute('href')));
+const watched = navLinks.map(target).filter(Boolean);
+if ('IntersectionObserver' in window && watched.length) {
+  const io = new IntersectionObserver((entries) => {
+    for (const e of entries) {
+      if (!e.isIntersecting) continue;
+      for (const a of navLinks) a.toggleAttribute('aria-current', target(a) === e.target);
+    }
+  }, { rootMargin: '-45% 0px -50% 0px' });
+  watched.forEach((s) => io.observe(s));
+}
