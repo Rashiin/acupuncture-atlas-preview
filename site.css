@@ -104,7 +104,7 @@ h1 { font-size: clamp(28px, 4.4vw, 48px); line-height: 1.4; margin: 0 0 16px; le
 .open-app:hover { color: #fff; }
 .guide .btn { margin-top: 14px; }
 .hero-art { position: relative; display: flex; justify-content: center; align-items: center; min-height: 420px; }
-.hero-art img { position: relative; width: 100%; max-width: 620px; height: auto; margin-bottom: -10px; }
+.hero-art img { position: relative; width: 100%; max-width: 540px; height: auto; margin-bottom: -10px; }
 .hero-art .ring { position: absolute; width: 82%; aspect-ratio: 1; border-radius: 50%; border: 1px solid #14b8a64d; box-shadow: 0 0 80px #14b8a626 inset; }
 .hero-art .ring::after { content: ''; position: absolute; inset: 9%; border-radius: 50%; border: 1px dashed #d4af3733; }
 
