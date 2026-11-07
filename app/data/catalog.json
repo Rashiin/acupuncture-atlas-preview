@@ -18,11 +18,7 @@
       "title_fa": "نقاط طب چینی",
       "subtitle_fa": "مریدین‌ها و نقاط بدن",
       "models": [
-        "body-male",
-        "hand-r",
-        "hand-l",
-        "foot-r",
-        "foot-l"
+        "body-male"
       ],
       "disabled_fields": []
     },
@@ -32,9 +28,7 @@
       "title_fa": "نقاط مستر تانگ",
       "subtitle_fa": "نقاط اختصاصی مستر تانگ",
       "models": [
-        "body-male",
-        "hand-r",
-        "hand-l"
+        "body-male"
       ],
       "disabled_fields": []
     },
